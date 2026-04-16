@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "8d6a397dadf3e206",
+    "type": "split",
+    "children": [
+      {
+        "id": "0de1d8aa377132a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "573d1d8d298b2bf5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0d54128f15eb7c7c",
+    "type": "split",
+    "children": [
+      {
+        "id": "cabb04719dbb5305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "113d9d4a9c0c551a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ba38da4c86098ff5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "962de4297974df74",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b710d6fe067e63c3",
+    "type": "split",
+    "children": [
+      {
+        "id": "7355816e0516cda6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fae847758a160a71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6f0ccf9754b9be07",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "78a68296e50b8c52",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "db2556ec0b7a07f5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "08ddaffa108b08db",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "573d1d8d298b2bf5",
+  "lastOpenFiles": [
+    "struktura/format-poruka.md",
+    "struktura/downsell-balzam.md",
+    "struktura/dostava.md",
+    "struktura",
+    "pravila/sidrenje-vrijednosti.md",
+    "pravila/prva-poruka.md",
+    "pravila/eskalacija.md",
+    "pravila/cena-bez-simptoma.md",
+    "pravila",
+    "proizvodi/synchrovitals-povratnik.md",
+    "proizvodi/kicma-nerv.md",
+    "proizvodi/certifikati-sigurnost.md",
+    "proizvodi/caj-otekline.md",
+    "proizvodi/betaserc-cirkulacija.md",
+    "proizvodi/balzam-kapsule.md",
+    "proizvodi",
+    "zatvaranje/urgencija.md",
+    "zatvaranje/upsell.md",
+    "zatvaranje/razmislicu.md",
+    "zatvaranje/odgada.md",
+    "zatvaranje/klijent-kaze-da.md",
+    "zatvaranje",
+    "objekcije/popust.md",
+    "objekcije/sve-probao.md",
+    "objekcije/konsultacija-doktor.md",
+    "objekcije/skepticizam.md",
+    "objekcije/nema-para.md",
+    "objekcije/cena-skupo.md",
+    "objekcije",
+    "Welcome.md",
+    "create a link.md",
+    "Untitled.canvas"
+  ]
+}
