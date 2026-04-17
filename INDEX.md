@@ -30,4 +30,5 @@ Repo: `github.com/Cvetkoslav/flexi-brain` · Sync na Railway svakih 15 min.
 - `struktura/` — faze razgovora, format poruka
 
 ## Najnovije sesije
+- [[sessions/2026-04-17_1713_sesija-2026-04-17]] — 17.04.2026. 17:13 (Drugo)
 _(automatski ažurirano preko `/compact` hook-a)_
