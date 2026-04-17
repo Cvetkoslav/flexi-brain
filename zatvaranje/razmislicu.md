@@ -13,5 +13,5 @@ Klijent odlaže odluku, kaže razmisliću, treba mu vremena
 ## Pravilo
 Pitaj iskreno: muči te cena ili djelotvornost? Odgovori direktno na razlog. Ne ostavljaj otvoreno — nudi rezervaciju.
 
-## Primjer odgovora
+## Primer odgovora
 Recite nam iskreno — da li Vas više muči to da proizvod neće pomoći, ili je cena u pitanju? 😊

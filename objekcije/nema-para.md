@@ -13,5 +13,5 @@ Klijent višestruko ponavlja da nema para ili da nije pravo vreme
 ## Pravilo
 Ponudi rezervaciju: ostavi podatke, šalji kad budu primanja, cijena ostaje ista. Ne trudi se dalje prodavati.
 
-## Primjer odgovora
+## Primer odgovora
 Razumemo Vas potpuno, kada budete spremni mi smo tu. Da li Vam odgovara da se čujemo kada sredite finansijsku situaciju?

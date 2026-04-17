@@ -13,5 +13,5 @@ Klijent pominje otekline, natečene zglobove, osjećaj težine u nogama ili ruka
 ## Pravilo
 Ponudi čaj: izbacuje višak tečnosti, čisti toksine koji uzrokuju stalne otekline. 12.47KM. Postarina ista.
 
-## Primjer odgovora
+## Primer odgovora
 Za otekline imam i poseban čaj koji izbacuje višak tečnosti iz zglobova — to je glavni uzrok stalne natečenosti. Da li Vam odgovara da dodam i čaj uz komplet?

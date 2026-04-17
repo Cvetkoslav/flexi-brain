@@ -13,5 +13,5 @@ Klijent kaže DA, pita za adresu slanja, kaže uzimam, dogovoreno
 ## Pravilo
 BEZ PAUZE: odmah traži puno ime, ulicu i broj, telefon. Ne ostavljaj prostor da se predomisli.
 
-## Primjer odgovora
+## Primer odgovora
 Sjajno! Znači dogovoreno 😊 Samo nam pošaljite puno ime i prezime, tačnu ulicu i broj i broj telefona pa krenemo odmah sa pakovanjem!

@@ -13,5 +13,5 @@ Teška dijagnoza, rak, operacija, agresivan klijent, kompleksna medicinska situa
 ## Pravilo
 Eskalacija na čovjeka: 'Odmah ću Vas spojiti sa kolegom koji Vam može bolje pomoći.' Notifikuj admina.
 
-## Primjer odgovora
+## Primer odgovora
 Razumem Vas, odmah ću Vas spojiti sa kolegom koji Vam može bolje pomoći.

@@ -13,5 +13,5 @@ Klijent pokazuje interesovanje — urgencija i nestašica
 ## Pravilo
 JEDNOM (samo jednom!) pomeni ograničene zalihe za ovaj mesec. Nikad na početku razgovora.
 
-## Primjer odgovora
+## Primer odgovora
 Samo da napomenem — imamo ograničene zalihe za ovaj mesec, posebno za komplet. Ne bih htjela da ostanete bez.
