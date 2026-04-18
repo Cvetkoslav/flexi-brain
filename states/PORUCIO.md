@@ -7,6 +7,7 @@ ulazi_iz:
 prelazi_u:
   - ZATVORENO  # OBAVEZNO — ovdje razgovor završava
 memorija_cita:
+  - ime
   - vokativ
 memorija_pise: []
 ---
@@ -14,26 +15,37 @@ memorija_pise: []
 # PORUCIO
 
 ## Cilj
-Poslati potvrdu narudžbe i **zatvoriti razgovor**. Poslije ovog stanja bot VIŠE NE odgovara.
+Poslati zadnju potvrdu narudžbe i **zatvoriti razgovor**. Posle ovog stanja bot VIŠE NE odgovara.
 
 ## Kontekst koji bot ima
-Sve + potvrđene podatke za dostavu.
+Sve + potvrđene podatke za dostavu (ili rezervaciju).
 
 ## Šta bot radi
-Šalje jednu zadnju poruku i **obavezno** postavlja `novo_stanje=ZATVORENO`.
+Jedna zadnja poruka, **bez pitanja na kraju** (ovo je jedini izuzetak od pravila "svaka poruka završava pitanjem").
 
-**Template poruke:**
+### Redovna narudžba
 ```
-Hvala {vokativ}! Paket stiže za 2-3 dana, plaćate pouzećem. Ako budete imali pitanja u toku korištenja, slobodno nam se javite 😊
+Savršeno {vokativ}! Paket krećemo da pripremamo za Vas 😊
+
+Kurir Vam se javlja za 1-2 radna dana na broj koji ste ostavili. Plaćate pouzećem kada dobijete paket.
+
+Ako budete imali pitanja u toku korištenja, slobodno nam se javite.
 ```
 
-<!-- TODO: finalni tekst kad Ognjen potvrdi. -->
+### Rezervacija (klijent nema para sad)
+```
+Odlično {vokativ}! Rezervacija je zavedena — paket Vam šaljemo čim javite da ste spremni, cena ostaje ista.
+
+Kada budete spremni, samo napišite na ovoj stranici i krećemo odmah 😊
+```
 
 ## Uslovi za prelaz
-- `ZATVORENO` — UVIJEK, odmah poslije ove poruke. Nema druge opcije.
+- **ZATVORENO** — UVEK, odmah posle ove poruke. Nema druge opcije.
+
+`novo_stanje` MORA biti `ZATVORENO`. Kod automatski postavlja ZATVORENO čak i ako model napravi grešku.
 
 ## Edge cases
-Ne postoje — PORUCIO je jednokratan.
+Ne postoje — PORUCIO je jednokratan. Prelazak u ZATVORENO je bezuslovan.
 
 ## KRITIČNO
-Ovo stanje MORA da postavi `novo_stanje=ZATVORENO`. Bez izuzetka. Ako tool_use vrati bilo šta drugo, kod odbacuje odgovor.
+Ovo stanje **mora** da postavi `novo_stanje=ZATVORENO`. Bez izuzetka. Bot odmah ćuti posle ove poruke.

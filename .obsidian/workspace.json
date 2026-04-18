@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e9be685fdbed8ecc",
+        "id": "ed8af63a1f91ab01",
         "type": "tabs",
         "children": [
           {
-            "id": "4e6edab01b293f01",
+            "id": "d0376be7d836ce31",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,8 +176,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "4e6edab01b293f01",
+  "active": "d0376be7d836ce31",
   "lastOpenFiles": [
+    "sessions/2026-04-17_1713_sesija-2026-04-17.md",
+    "Untitled 2.canvas",
+    "sessions/2026-04-18_1344_sesija-2026-04-18.md",
+    "Untitled 1.canvas",
+    "states/UBJEDJIVANJE.md",
+    "states/PORUCIO.md",
+    "states/ZATVORENO.md",
+    "states/PRIKUPLJANJE.md",
+    "proizvodi/synchrovitals-povratnik.md",
     "INDEX.md",
     "Untitled.canvas",
     "zatvaranje/odgada.md",
@@ -205,14 +214,8 @@
     "pravila/prva-poruka.md",
     "pravila/eskalacija.md",
     "pravila/cena-bez-simptoma.md",
-    "proizvodi/synchrovitals-povratnik.md",
     "proizvodi/kicma-nerv.md",
     "proizvodi/certifikati-sigurnost.md",
-    "proizvodi/caj-otekline.md",
-    "proizvodi/betaserc-cirkulacija.md",
-    "proizvodi/balzam-kapsule.md",
-    "zatvaranje/urgencija.md",
-    "zatvaranje/upsell.md",
-    "zatvaranje/razmislicu.md"
+    "proizvodi/caj-otekline.md"
   ]
 }
