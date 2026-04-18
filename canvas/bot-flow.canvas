@@ -1,0 +1,106 @@
+{
+  "nodes": [
+    {
+      "id": "pocetak",
+      "type": "file",
+      "file": "states/POCETAK.md",
+      "x": -400,
+      "y": -300,
+      "width": 300,
+      "height": 180,
+      "color": "4"
+    },
+    {
+      "id": "prikupljanje",
+      "type": "file",
+      "file": "states/PRIKUPLJANJE.md",
+      "x": 50,
+      "y": -300,
+      "width": 300,
+      "height": 180,
+      "color": "5"
+    },
+    {
+      "id": "preporuka",
+      "type": "file",
+      "file": "states/PREPORUKA.md",
+      "x": 500,
+      "y": -300,
+      "width": 300,
+      "height": 180,
+      "color": "6"
+    },
+    {
+      "id": "ubjedjivanje",
+      "type": "file",
+      "file": "states/UBJEDJIVANJE.md",
+      "x": 500,
+      "y": 0,
+      "width": 300,
+      "height": 180,
+      "color": "3"
+    },
+    {
+      "id": "zatvaranje",
+      "type": "file",
+      "file": "states/ZATVARANJE.md",
+      "x": 950,
+      "y": 0,
+      "width": 300,
+      "height": 180,
+      "color": "2"
+    },
+    {
+      "id": "porucio",
+      "type": "file",
+      "file": "states/PORUCIO.md",
+      "x": 1400,
+      "y": 0,
+      "width": 300,
+      "height": 180,
+      "color": "2"
+    },
+    {
+      "id": "zatvoreno",
+      "type": "file",
+      "file": "states/ZATVORENO.md",
+      "x": 1400,
+      "y": 300,
+      "width": 300,
+      "height": 180,
+      "color": "1"
+    },
+    {
+      "id": "legend",
+      "type": "text",
+      "text": "## Legenda\n\n- 🟣 POCETAK\n- 🔵 PRIKUPLJANJE\n- 🟢 PREPORUKA\n- 🟡 UBJEDJIVANJE\n- 🟢 ZATVARANJE\n- 🟢 PORUCIO\n- 🔴 ZATVORENO (bot ne odgovara)\n\n**Strelice:**\n- puna = uobičajeni tok\n- isprekidana = edge case / skok",
+      "x": -400,
+      "y": 0,
+      "width": 300,
+      "height": 260,
+      "color": "0"
+    },
+    {
+      "id": "edge-sticky",
+      "type": "text",
+      "text": "📌 **Edge cases (svuda moguće)**\n\n- rak / operacija → ESKALACIJA\n- agresivan → ESKALACIJA\n- idem kod lekara → rezervacija\n- betaserc / cirkulacija → samo_balzam\n- srce / dijabetes → bez_medicinskih_garancija",
+      "x": 50,
+      "y": 0,
+      "width": 400,
+      "height": 260,
+      "color": "1"
+    }
+  ],
+  "edges": [
+    {"id": "e1", "fromNode": "pocetak", "fromSide": "right", "toNode": "prikupljanje", "toSide": "left", "label": "daje simptom"},
+    {"id": "e2", "fromNode": "pocetak", "fromSide": "top", "toNode": "pocetak", "toSide": "left", "label": "pita cijenu → SELF"},
+    {"id": "e3", "fromNode": "prikupljanje", "fromSide": "right", "toNode": "preporuka", "toSide": "left", "label": "ima dosta info"},
+    {"id": "e4", "fromNode": "prikupljanje", "fromSide": "top", "toNode": "prikupljanje", "toSide": "right", "label": "još pita → SELF"},
+    {"id": "e5", "fromNode": "preporuka", "fromSide": "bottom", "toNode": "ubjedjivanje", "toSide": "top", "label": "dao cijenu, oklijeva"},
+    {"id": "e6", "fromNode": "preporuka", "fromSide": "right", "toNode": "zatvaranje", "toSide": "top", "label": "odmah DA"},
+    {"id": "e7", "fromNode": "ubjedjivanje", "fromSide": "right", "toNode": "zatvaranje", "toSide": "left", "label": "jasnije mi je / DA"},
+    {"id": "e8", "fromNode": "ubjedjivanje", "fromSide": "left", "toNode": "prikupljanje", "toSide": "bottom", "label": "novi simptom"},
+    {"id": "e9", "fromNode": "zatvaranje", "fromSide": "right", "toNode": "porucio", "toSide": "left", "label": "dao podatke"},
+    {"id": "e10", "fromNode": "porucio", "fromSide": "bottom", "toNode": "zatvoreno", "toSide": "top", "label": "uvijek"}
+  ]
+}
