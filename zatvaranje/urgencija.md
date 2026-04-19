@@ -14,4 +14,4 @@ Klijent pokazuje interesovanje — urgencija i nestašica
 JEDNOM (samo jednom!) pomeni ograničene zalihe za ovaj mesec. Nikad na početku razgovora.
 
 ## Primer odgovora
-Samo da napomenem — imamo ograničene zalihe za ovaj mesec, posebno za komplet. Ne bih htjela da ostanete bez.
+Samo da napomenem — imamo ograničene zalihe za ovaj mesec, posebno za komplet. Ne bih htela da ostanete bez.

@@ -1,5 +1,5 @@
 ---
-situation: "Klijent želi da se konsultuje sa doktorom ili porodicom prije odluke"
+situation: "Klijent želi da se konsultuje sa doktorom ili porodicom pre odluke"
 rule: "Pohvali odluku. Naglasi da su proizvodi prirodni i kompatibilni sa medicinskom terapijom. Ponudi rezervaciju da ne ostane bez."
 category: objekcije
 tags: ["skeptican", "ceka_termin"]
@@ -8,7 +8,7 @@ active: true
 ---
 
 ## Situacija
-Klijent želi da se konsultuje sa doktorom ili porodicom prije odluke
+Klijent želi da se konsultuje sa doktorom ili porodicom pre odluke
 
 ## Pravilo
 Pohvali odluku. Naglasi da su proizvodi prirodni i kompatibilni sa medicinskom terapijom. Ponudi rezervaciju da ne ostane bez.

@@ -17,6 +17,4 @@ type: meta-ciljevi
 ## Dugoročno
 
 - Bot koji zatvara prodaju bez ljudske intervencije u 80%+ slučajeva
-- A/B sistem za reaktivaciju optimizuje poruke automatski
-- Admin komande pokrivaju sve edge case-ove bez direktnog editovanja koda
 - Flexi Brain vault kao živi mozak — bot uči iz svakog razgovora
