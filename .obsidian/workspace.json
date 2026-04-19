@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed8af63a1f91ab01",
+        "id": "5875144db7b0b82c",
         "type": "tabs",
         "children": [
           {
-            "id": "d0376be7d836ce31",
+            "id": "67f6394c30a00b5d",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -176,11 +176,23 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0376be7d836ce31",
+  "active": "113d9d4a9c0c551a",
   "lastOpenFiles": [
+    "INDEX.md.tmp.7520.1776633945903",
+    "sessions/2026-04-19_2325_sesija-2026-04-19.md",
+    "stil-govora/max-3-pitanja.md",
+    "stil-govora/kratke-poruke.md",
+    "stil-govora/empatija-pre-prodaje.md",
+    "stil-govora/ekavski-obavezno.md",
+    "objekcije/konsultacija-doktor.md",
+    "meta/Ciljevi.md",
+    "Untitled 3.canvas",
+    "proizvodi/trudnoca-dojenje.md",
+    "_schema/client.md",
+    "sessions/2026-04-18_1344_sesija-2026-04-18.md",
+    "sessions/2026-04-18_1722_sesija-2026-04-18.md",
     "sessions/2026-04-17_1713_sesija-2026-04-17.md",
     "Untitled 2.canvas",
-    "sessions/2026-04-18_1344_sesija-2026-04-18.md",
     "Untitled 1.canvas",
     "states/UBJEDJIVANJE.md",
     "states/PORUCIO.md",
@@ -205,17 +217,6 @@
     "knowledge/proizvodi",
     "knowledge/pravila",
     "knowledge/objekcije",
-    "knowledge",
-    "Welcome.md",
-    "struktura/format-poruka.md",
-    "struktura/downsell-balzam.md",
-    "struktura/dostava.md",
-    "pravila/sidrenje-vrijednosti.md",
-    "pravila/prva-poruka.md",
-    "pravila/eskalacija.md",
-    "pravila/cena-bez-simptoma.md",
-    "proizvodi/kicma-nerv.md",
-    "proizvodi/certifikati-sigurnost.md",
-    "proizvodi/caj-otekline.md"
+    "knowledge"
   ]
 }

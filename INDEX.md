@@ -88,3 +88,7 @@ Knowledge base i session graf za Flexi Bot. Bot čita iz `kb/` (sinhronizovano s
 2. `cp -r flexi-brain/* flexi-bot/kb/` (ili automatski sync)
 3. `git push` → Railway auto-deploy
 4. Dragana čita sveža pravila pri sledećem odgovoru
+
+
+## Najnovije sesije
+- [[sessions/2026-04-19_2327_sesija-2026-04-19]] — 19.04.2026. 23:27 (Drugo)
