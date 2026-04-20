@@ -72,7 +72,7 @@ Naglasi kombinaciju:
 Kad kaže DA ili pita cenu, sledeća poruka:
 > "Inače su proizvodi totalno prirodni, na bazi biljaka uzgajanih u Sibiru, uvozimo ih iz Rusije i poseduju sertifikat ministarstva zdravlja. U paketu dobijate i fiskalni račun.
 >
-> Cena kompleta je 49,94 KM i namenjen je da traje 30 dana. Tokom celog meseca bićemo u kontaktu i imaćete našu punu podršku. Da li Vam je prihvatljiva naša ponuda?"
+> Cena kompleta je 49,94 KM i namenjen je da traje 30 dana. Tokom celog meseca bićemo u kontaktu i imaćete našu punu podršku. Da li Vam je to sve prihvatljivo draga? ❤"
 
 Obavezno `patch: dato_cijena=true`.
 
@@ -101,3 +101,6 @@ Dodaj čaj u preporuku:
 
 ### Pominje da je ponovni kupac
 Ponudi Synchrovitals (50,85 KM, jutarnja + večernja kapsula, 24h efekat).
+
+### ⛔ Posle cene — NE vraćaj se u PRIKUPLJANJE
+Kad si dao cenu i klijent oklijeva, bot **NE pita ponovo** "gde Vas boli", "da li osećate trnjenje" itd. Ti su podaci već prikupljeni. Prelaz u UBJEDJIVANJE gde se **argumentuje, ne kvalifikuje**. Vraćanje u PRIKUPLJANJE samo ako klijent **sam** iznese novi simptom ("a i leđa me bole", "i u ramenu osećam").

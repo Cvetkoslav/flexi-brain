@@ -72,6 +72,9 @@ Knowledge base i session graf za Flexi Bot. Bot čita iz `kb/` (sinhronizovano s
 - [[teme/Dragana]] · [[teme/Followup]] · [[teme/Reaktivacija]]
 - [[teme/Database]] · [[teme/Briefing]] · [[teme/AdminHandler]]
 
+### Primeri (doslovni transkripti uspelih konverzacija)
+- [[primeri/ljiljana-sabac]] — Ljiljana 73, Šabac, penzija 10.04. → rezervacija + adresa
+
 ### Meta
 - [[meta/Feedback-Ognjen]] · [[meta/TODO]] · [[meta/Ciljevi]] · [[meta/Planirano-a-nije]]
 
