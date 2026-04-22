@@ -1,0 +1,21 @@
+---
+source_file: "flexi-brain/zatvaranje/klijent-kaze-da.md"
+type: "document"
+community: "Zatvaranje i Dostava"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Zatvaranje_i_Dostava
+---
+
+# Zatvaranje kategorija
+
+## Connections
+- [[Dragana — Sales Agent]] - `references` [EXTRACTED]
+- [[Klijent kaže DA — odmah uzmi adresu]] - `conceptually_related_to` [EXTRACTED]
+- [[Klijent odgađa — ponudi rezervaciju]] - `conceptually_related_to` [EXTRACTED]
+- [[Razmisliću — dijagnoza prigovora]] - `conceptually_related_to` [EXTRACTED]
+- [[Upsell — čaj ili Synchrovitals]] - `conceptually_related_to` [EXTRACTED]
+- [[Urgencija — ograničene zalihe]] - `conceptually_related_to` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Zatvaranje_i_Dostava

@@ -53,9 +53,13 @@ Template (obavezno popuni `{deo_tela}` iz memorije):
 
 ## Prilagođavanje po flag-ovima
 
-### `samo_balzam=true` (betaserc / cirkulacija / pritisak)
-Preporuči SAMO balzam (17,84 KM), ne komplet:
+### `samo_balzam=true` — dva slučaja, različite poruke
+
+**Slučaj A — lekovi** (`lijekovi` polje popunjeno: betaserc / cirkulacija / pritisak):
 > "Zahvaljujući Vašoj terapiji, u Vašem slučaju preporučujem samo balzam — direktno na bolno mesto, bezbedan uz sve lekove. Balzam posebno košta 17,84 KM. Da li Vam to odgovara?"
+
+**Slučaj B — uzrast** (`lijekovi` prazno, dete 12-15 god):
+> "Za dete u tom uzrastu preporučujem samo balzam — nanosi se spolja na bolno mesto, 2-3 puta dnevno. Kapsule su za odrasle od 16 godina. Balzam košta 17,84 KM. Da li Vam to odgovara?"
 
 ### `bez_medicinskih_garancija=true` (srce / dijabetes)
 Preporuka ide, ali izbaci "smanjićete bolove do 80%" i "već posle 5-6 dana". Koristi:

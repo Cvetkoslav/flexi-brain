@@ -1,0 +1,2766 @@
+{
+  "nodes": [
+    {
+      "id": "g0",
+      "type": "group",
+      "label": "Proizvodi i Upsell",
+      "x": 0,
+      "y": 0,
+      "width": 1320,
+      "height": 1020,
+      "color": "1"
+    },
+    {
+      "id": "n_state_zatvoreno_adminReopen",
+      "type": "file",
+      "file": "graphify/obsidian/Admin endpoint rucno otvaranje razgovora (POST adminreopen).md",
+      "x": 20,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_caj_otekline_cajOtekline",
+      "type": "file",
+      "file": "graphify/obsidian/Caj za otekline (upsell pravilo).md",
+      "x": 220,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_caj_otekline_cajProizvod",
+      "type": "file",
+      "file": "graphify/obsidian/Caj \u2014 proizvod (12.47 KM).md",
+      "x": 420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_preporuka_cenaPravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Cena ne pominjati dok klijent ne pita ili kaze DA.md",
+      "x": 20,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_kicma_nerv_trnjenjeDetekcija",
+      "type": "file",
+      "file": "graphify/obsidian/Detekcija pritisnutog nerva (trnjenjeutrnulost).md",
+      "x": 220,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_prikupljanje_flag_bezMedGarancija",
+      "type": "file",
+      "file": "graphify/obsidian/Flag bez_medicinskih_garancija=true (srcedijabetes).md",
+      "x": 420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_prikupljanje_flag_samoBalzam",
+      "type": "file",
+      "file": "graphify/obsidian/Flag samo_balzam=true (betaserccirkulacijapritisak).md",
+      "x": 20,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_kicma_nerv_kombinacijaKapsuleBalzam",
+      "type": "file",
+      "file": "graphify/obsidian/Kombinacija kapsule iznutra + balzam spolja (nerv).md",
+      "x": 220,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_prikupljanje_mapaLokacija",
+      "type": "file",
+      "file": "graphify/obsidian/Mapa lokacija \u2192 ciljano pitanje (koleno, ledja, vrat, kuk...).md",
+      "x": 420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sesija_20260419a_stateLabelMap",
+      "type": "file",
+      "file": "graphify/obsidian/Mapiranje stanje \u2192 FB labela (leadordered).md",
+      "x": 20,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_pocetak_vokativPravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo vokativ iz imena (mu\u0161ka\u017eenska deklinacija).md",
+      "x": 220,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_zatvaranje_podaciDostava",
+      "type": "file",
+      "file": "graphify/obsidian/Prikupljanje podataka ime + ulicabroj + telefon (sva 3 polja).md",
+      "x": 420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_preporuka_flagoviPrilagodjavanje",
+      "type": "file",
+      "file": "graphify/obsidian/Prilagodjavanje preporuke po flagovima (samo_balzam, bez_medicinskih_garancija).md",
+      "x": 20,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_kicma_nerv_kicmaSituacija",
+      "type": "file",
+      "file": "graphify/obsidian/Situacija kicmaledjaisijasbol koji se siri.md",
+      "x": 220,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_caj_otekline_oteklineSituacija",
+      "type": "file",
+      "file": "graphify/obsidian/Situacija otekline  nateceni zglobovi.md",
+      "x": 420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_synchrovitals_povratnik_povratnikSituacija",
+      "type": "file",
+      "file": "graphify/obsidian/Situacija ponovni kupac  trazi dugorocnu podrsku.md",
+      "x": 20,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_pocetak_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje POCETAK (prvi kontakt, pitanje za simptome).md",
+      "x": 220,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_porucio_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje PORUCIO (zadnja potvrda, prelaz u ZATVORENO).md",
+      "x": 420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_preporuka_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje PREPORUKA (edukacija + prilagodjena preporuka + cena).md",
+      "x": 20,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_prikupljanje_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje PRIKUPLJANJE (max 3 pitanja, detalji simptoma).md",
+      "x": 220,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_zatvaranje_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje ZATVARANJE (prikupi ime, adresu, telefon).md",
+      "x": 420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_zatvoreno_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje ZATVORENO (bot ne odgovara, razgovor zavr\u0161en).md",
+      "x": 20,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_synchrovitals_povratnik_synchrovitalsProizvod",
+      "type": "file",
+      "file": "graphify/obsidian/Synchrovitals \u2014 proizvod (50.85 KM, 24h dejstvo).md",
+      "x": 220,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_synchrovitals_povratnik_synchrovitalsPravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Synchrovitals pravilo za povratnika  dugotrajnu podr\u0161ku.md",
+      "x": 420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_template_template",
+      "type": "file",
+      "file": "graphify/obsidian/Template za nova stanja (TEMPLATE.md).md",
+      "x": 20,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_zatvaranje_upsellUZatvaranju",
+      "type": "file",
+      "file": "graphify/obsidian/Upsell u ZATVARANJU caj ili Synchrovitals uz narud\u017ebu.md",
+      "x": 220,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_caj_otekline_upsellPravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Upsell caj uz komplet, postarina ista.md",
+      "x": 420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g1",
+      "type": "group",
+      "label": "Prodajni Motor",
+      "x": 1400,
+      "y": 0,
+      "width": 1100,
+      "height": 1020,
+      "color": "2"
+    },
+    {
+      "id": "n_clients_readme_client_format",
+      "type": "file",
+      "file": "graphify/obsidian/Client Memory Format \u2014 Facebook Sender ID Files.md",
+      "x": 1420,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_dual_action_product",
+      "type": "file",
+      "file": "graphify/obsidian/Dual-Action Product Design \u2014 Balzam (spolja) + Kapsule (iznutra).md",
+      "x": 1620,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_meta_feedback_ognjen",
+      "type": "file",
+      "file": "graphify/obsidian/Feedback od Ognjena \u2014 Bot and Collaboration Preferences.md",
+      "x": 1820,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_index_md_index",
+      "type": "file",
+      "file": "graphify/obsidian/Flexi Brain \u2014 Master Index.md",
+      "x": 1420,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_personal_example_tactic",
+      "type": "file",
+      "file": "graphify/obsidian/Li\u010dni Primer Taktike \u2014 Personal Experience as Trust Signal.md",
+      "x": 1620,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_konsultacija_doktor",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija Konsultacija Doktor \u2014 DoctorFamily Delay Rule.md",
+      "x": 1820,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_nema_para",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija Nema Para \u2014 Reservation Offer Rule.md",
+      "x": 1420,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_popust",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija Popust \u2014 No-Discount Upsell Rule.md",
+      "x": 1620,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_skepticizam",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija Skepticizam \u2014 Personal Experience Trust Rule.md",
+      "x": 1820,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_cena_skupo",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija Skupo \u2014 Value Anchoring Rule.md",
+      "x": 1420,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_sve_probao",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija Sve Probao \u2014 Dual-Action Differentiation Rule.md",
+      "x": 1620,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_objekcije_sta_ako_ne_pomogne",
+      "type": "file",
+      "file": "graphify/obsidian/Objekcija \u0160ta Ako Ne Pomogne \u2014 Risk Reduction Rule.md",
+      "x": 1820,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_meta_planirano_backlog",
+      "type": "file",
+      "file": "graphify/obsidian/Planirano a nije \u2014 Deferred Feature Backlog.md",
+      "x": 1420,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pravila_cena_bez_simptoma",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo Cena bez Simptoma \u2014 No-Price-Before-Symptoms Rule.md",
+      "x": 1620,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pravila_eskalacija",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo Eskalacija \u2014 Human Handoff Rule.md",
+      "x": 1820,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pravila_prva_poruka",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo Prva Poruka \u2014 Exact First Message Template.md",
+      "x": 1420,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_pravila_sidrenje_vrijednosti",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo Sidrenje Vrijednosti \u2014 1.6 KMday Value Anchor.md",
+      "x": 1620,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_primeri_ljiljana_sabac",
+      "type": "file",
+      "file": "graphify/obsidian/Primer Ljiljana Leki\u0107 \u0160abac \u2014 Full Conversation Transcript.md",
+      "x": 1820,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_proizvodi_balzam_kapsule",
+      "type": "file",
+      "file": "graphify/obsidian/Proizvod Balzam + Kapsule Komplet (49.94 KM).md",
+      "x": 1420,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_proizvodi_betaserc_cirkulacija",
+      "type": "file",
+      "file": "graphify/obsidian/Proizvod Samo Balzam (BetasercCirkulacija Flag).md",
+      "x": 1620,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_reservation_tactic",
+      "type": "file",
+      "file": "graphify/obsidian/Rezervacija Taktika \u2014 Reservation Close for Financial Objections.md",
+      "x": 1820,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_state_machine",
+      "type": "file",
+      "file": "graphify/obsidian/Sales State Machine \u2014 POCETAK\u2192PRIKUPLJANJE\u2192PREPORUKA\u2192UBJEDJIVANJE\u2192ZATVARANJE.md",
+      "x": 1420,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_meta_todo_active_tasks",
+      "type": "file",
+      "file": "graphify/obsidian/TODO \u2014 Active Development Tasks.md",
+      "x": 1620,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_extract_todo",
+      "type": "file",
+      "file": "graphify/obsidian/_extract_and_append_todo() \u2014 TODO Extractor.md",
+      "x": 1820,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_samo_balzam_flag",
+      "type": "file",
+      "file": "graphify/obsidian/samo_balzam Flag \u2014 Medical Compatibility Safety Rule.md",
+      "x": 1420,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g2",
+      "type": "group",
+      "label": "Bot Arhitektura",
+      "x": 2580,
+      "y": 0,
+      "width": 1100,
+      "height": 1020,
+      "color": "3"
+    },
+    {
+      "id": "n_concept_ab_scoring",
+      "type": "file",
+      "file": "graphify/obsidian/AB weighted scoring za reaktivacione poruke.md",
+      "x": 2600,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_adminhandler_tema",
+      "type": "file",
+      "file": "graphify/obsidian/AdminHandler \u2014 Admin komande.md",
+      "x": 2800,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_briefing_tema",
+      "type": "file",
+      "file": "graphify/obsidian/Briefing \u2014 Jutarnji izve\u0161taj.md",
+      "x": 3000,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_client_schema",
+      "type": "file",
+      "file": "graphify/obsidian/Client memorija schema (SQLite).md",
+      "x": 2600,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_conversation_state",
+      "type": "file",
+      "file": "graphify/obsidian/Conversation state enum (POCETAK..ZATVORENO).md",
+      "x": 2800,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_database_tema",
+      "type": "file",
+      "file": "graphify/obsidian/Database \u2014 Postgres schema.md",
+      "x": 3000,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_downsell_flow",
+      "type": "file",
+      "file": "graphify/obsidian/Downsell flow komplet \u2192 balzam.md",
+      "x": 2600,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_downsell_balzam_struktura",
+      "type": "file",
+      "file": "graphify/obsidian/Downsell \u2014 samo balzam kao last resort.md",
+      "x": 2800,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_tooluse_schema",
+      "type": "file",
+      "file": "graphify/obsidian/Dragana tool use \u2014 update_state schema.md",
+      "x": 3000,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_dragana_tema",
+      "type": "file",
+      "file": "graphify/obsidian/Dragana \u2014 Sales Agent.md",
+      "x": 2600,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_empatija_pre_prodaje_rule",
+      "type": "file",
+      "file": "graphify/obsidian/Empatija pre prodaje.md",
+      "x": 2800,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_followup_tema",
+      "type": "file",
+      "file": "graphify/obsidian/Followup \u2014 Agent 2.md",
+      "x": 3000,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_format_poruka_struktura",
+      "type": "file",
+      "file": "graphify/obsidian/Format poruka (Dragana stil).md",
+      "x": 2600,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_kratke_poruke_rule",
+      "type": "file",
+      "file": "graphify/obsidian/Kratke poruke (max 2-3 re\u010denice).md",
+      "x": 2800,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_max3pitanja_rule",
+      "type": "file",
+      "file": "graphify/obsidian/Maksimalno 3 pitanja pre ponude.md",
+      "x": 3000,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nema_laznih_obecanja_rule",
+      "type": "file",
+      "file": "graphify/obsidian/Nema la\u017enih obe\u0107anja.md",
+      "x": 2600,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_nema_ponavljanja_rule",
+      "type": "file",
+      "file": "graphify/obsidian/Nema ponavljanja pitanja.md",
+      "x": 2800,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rationale_empatija_spam",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale bez empatije ponuda izgleda kao spam.md",
+      "x": 3000,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rationale_nema_ponavljanja_trust",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale ponavljanje naru\u0161ava poverenje klijenta.md",
+      "x": 2600,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rationale_nema_obecanja_legal",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale pravni i eti\u010dki razlog \u2014 ne smemo garantovati medicinske rezultate.md",
+      "x": 2800,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_rationale_tooluse_structured_output",
+      "type": "file",
+      "file": "graphify/obsidian/Rationale tool use forsira validan JSON i spre\u010dava izmi\u0161ljanje stanja.md",
+      "x": 3000,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_reaktivacija_tema",
+      "type": "file",
+      "file": "graphify/obsidian/Reaktivacija \u2014 Agent 4.md",
+      "x": 2600,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_stil_govora",
+      "type": "file",
+      "file": "graphify/obsidian/Stil govora kategorija.md",
+      "x": 2800,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_extract_session_prompt",
+      "type": "file",
+      "file": "graphify/obsidian/extract_session prompt \u2014 kompaktovanje sesije.md",
+      "x": 3000,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_update_state_tool",
+      "type": "file",
+      "file": "graphify/obsidian/update_state Anthropic tool use.md",
+      "x": 2600,
+      "y": 720,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g3",
+      "type": "group",
+      "label": "Hook Funkcije",
+      "x": 3760,
+      "y": 0,
+      "width": 1100,
+      "height": 920,
+      "color": "4"
+    },
+    {
+      "id": "n_brain_save_rationale_127",
+      "type": "file",
+      "file": "graphify/obsidian/Izvla\u010di slug i temu iz poslednjih linija izve\u0161taja..md",
+      "x": 3780,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_316",
+      "type": "file",
+      "file": "graphify/obsidian/Kreira minimalni izve\u0161taj ako Claude CLI nije dostupan..md",
+      "x": 3980,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_243",
+      "type": "file",
+      "file": "graphify/obsidian/Parsira Feedback sekciju iz izve\u0161taja i dopunjuje metaFeedback-Ognjen.md..md",
+      "x": 4180,
+      "y": 80,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_268",
+      "type": "file",
+      "file": "graphify/obsidian/Parsira TODO sekciju i dopunjuje metaTODO.md..md",
+      "x": 3780,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_98",
+      "type": "file",
+      "file": "graphify/obsidian/Poziva Claude CLI da generi\u0161e session izve\u0161taj..md",
+      "x": 3980,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_1",
+      "type": "file",
+      "file": "graphify/obsidian/PreCompact hook za Claude Code. Ekstraktuje session izve\u0161taj iz transcripta i za.md",
+      "x": 4180,
+      "y": 160,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_169",
+      "type": "file",
+      "file": "graphify/obsidian/Prepend-uje link nove sesije u INDEX.md pod 'Najnovije sesije'..md",
+      "x": 3780,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_210",
+      "type": "file",
+      "file": "graphify/obsidian/Prepend-uje link sesije u temetema.md..md",
+      "x": 3980,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_149",
+      "type": "file",
+      "file": "graphify/obsidian/Zapisuje session fajl u sessions..md",
+      "x": 4180,
+      "y": 240,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_call_claude",
+      "type": "file",
+      "file": "graphify/obsidian/_call_claude().md",
+      "x": 3780,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_extract_and_append_feedback",
+      "type": "file",
+      "file": "graphify/obsidian/_extract_and_append_feedback().md",
+      "x": 3980,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_extract_and_append_todo",
+      "type": "file",
+      "file": "graphify/obsidian/_extract_and_append_todo().md",
+      "x": 4180,
+      "y": 320,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_fallback_report",
+      "type": "file",
+      "file": "graphify/obsidian/_fallback_report().md",
+      "x": 3780,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_git_commit_and_push",
+      "type": "file",
+      "file": "graphify/obsidian/_git_commit_and_push().md",
+      "x": 3980,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_parse_metadata",
+      "type": "file",
+      "file": "graphify/obsidian/_parse_metadata().md",
+      "x": 4180,
+      "y": 400,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_read_transcript",
+      "type": "file",
+      "file": "graphify/obsidian/_read_transcript().md",
+      "x": 3780,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_safe_exit",
+      "type": "file",
+      "file": "graphify/obsidian/_safe_exit().md",
+      "x": 3980,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_update_index",
+      "type": "file",
+      "file": "graphify/obsidian/_update_index().md",
+      "x": 4180,
+      "y": 480,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_update_tema",
+      "type": "file",
+      "file": "graphify/obsidian/_update_tema().md",
+      "x": 3780,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_write_session",
+      "type": "file",
+      "file": "graphify/obsidian/_write_session().md",
+      "x": 3980,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "type": "file",
+      "file": "graphify/obsidian/brain_save.py.md",
+      "x": 4180,
+      "y": 560,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_292",
+      "type": "file",
+      "file": "graphify/obsidian/git add . && git commit && git push \u2014 tiho, ne blokira..md",
+      "x": 3780,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_main",
+      "type": "file",
+      "file": "graphify/obsidian/main().md",
+      "x": 3980,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_rationale_47",
+      "type": "file",
+      "file": "graphify/obsidian/\u010cita .jsonl transcript i vra\u0107a userassistant poruke kao \u010dist tekst..md",
+      "x": 4180,
+      "y": 640,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g4",
+      "type": "group",
+      "label": "PreCompact Hook",
+      "x": 0,
+      "y": 1100,
+      "width": 1100,
+      "height": 720,
+      "color": "5"
+    },
+    {
+      "id": "n_concept_dragana_bot",
+      "type": "file",
+      "file": "graphify/obsidian/Dragana \u2014 Facebook Messenger Sales Bot.md",
+      "x": 20,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_flexi_brain_md_flexi_brain",
+      "type": "file",
+      "file": "graphify/obsidian/Flexi Brain \u2014 Obsidian Vault Overview.md",
+      "x": 220,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_kb_knowledge_base",
+      "type": "file",
+      "file": "graphify/obsidian/Knowledge Base \u2014 Postgres KB Table.md",
+      "x": 420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_meta_ciljevi_project_goals",
+      "type": "file",
+      "file": "graphify/obsidian/Project Goals \u2014 Flexi Bot Objectives.md",
+      "x": 20,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_railway_sync",
+      "type": "file",
+      "file": "graphify/obsidian/Railway git_sync \u2014 15-min KB Sync to Postgres.md",
+      "x": 220,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_valid_teme",
+      "type": "file",
+      "file": "graphify/obsidian/VALID_TEME \u2014 Allowed Topic Categories.md",
+      "x": 420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_call_claude",
+      "type": "file",
+      "file": "graphify/obsidian/_call_claude() \u2014 Claude CLI Session Report Generator.md",
+      "x": 20,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_extract_feedback",
+      "type": "file",
+      "file": "graphify/obsidian/_extract_and_append_feedback() \u2014 Feedback Extractor.md",
+      "x": 220,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_fallback_report",
+      "type": "file",
+      "file": "graphify/obsidian/_fallback_report() \u2014 Minimal Fallback Report.md",
+      "x": 420,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_git_push",
+      "type": "file",
+      "file": "graphify/obsidian/_git_commit_and_push() \u2014 Git Sync.md",
+      "x": 20,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_parse_metadata",
+      "type": "file",
+      "file": "graphify/obsidian/_parse_metadata() \u2014 SLUGTEMA Extractor.md",
+      "x": 220,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_read_transcript",
+      "type": "file",
+      "file": "graphify/obsidian/_read_transcript() \u2014 JSONL Transcript Parser.md",
+      "x": 420,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_update_index",
+      "type": "file",
+      "file": "graphify/obsidian/_update_index() \u2014 INDEX.md Updater.md",
+      "x": 20,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_update_tema",
+      "type": "file",
+      "file": "graphify/obsidian/_update_tema() \u2014 Topic Hub Updater.md",
+      "x": 220,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_write_session",
+      "type": "file",
+      "file": "graphify/obsidian/_write_session() \u2014 Session File Writer.md",
+      "x": 420,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_brain_save",
+      "type": "file",
+      "file": "graphify/obsidian/brain_save.py \u2014 PreCompact Hook.md",
+      "x": 20,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_extract_session_prompt",
+      "type": "file",
+      "file": "graphify/obsidian/extract_session.txt \u2014 Session Extraction Prompt.md",
+      "x": 220,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_brain_save_py_main",
+      "type": "file",
+      "file": "graphify/obsidian/main() \u2014 PreCompact Hook Entrypoint.md",
+      "x": 420,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g5",
+      "type": "group",
+      "label": "Pravila Sigurnosti",
+      "x": 1400,
+      "y": 1100,
+      "width": 880,
+      "height": 720,
+      "color": "6"
+    },
+    {
+      "id": "n_sesija_20260419a_kbNoviFajlovi",
+      "type": "file",
+      "file": "graphify/obsidian/6 novih KB fajlova kreirano u sesiji 19.04..md",
+      "x": 1420,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_primena_proizvoda_balzamDoziranje",
+      "type": "file",
+      "file": "graphify/obsidian/Balzam 2-3x dnevno na bolno mesto.md",
+      "x": 1620,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sesija_20260419a_ekavskiFix",
+      "type": "file",
+      "file": "graphify/obsidian/Ekavski fix 15+ fajlova sa ijekavskim.md",
+      "x": 1820,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deca_mladji_eskalacija",
+      "type": "file",
+      "file": "graphify/obsidian/Eskalacija deca ispod 12 \u2014 pedijatar.md",
+      "x": 1420,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deca_mladji_flag_samoBalzam",
+      "type": "file",
+      "file": "graphify/obsidian/Flag samo_balzam=true (12-15 godina).md",
+      "x": 1620,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ekavski_obavezno_pravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Globalno pravilo ekavski obavezno (priority 10).md",
+      "x": 1820,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_ekavski_obavezno_izvor",
+      "type": "file",
+      "file": "graphify/obsidian/Izvor screenshot 17.04.2026 \u2014 Ognjenov zahtev za ekavski.md",
+      "x": 1420,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_primena_proizvoda_kapsuliDoziranje",
+      "type": "file",
+      "file": "graphify/obsidian/Kapsule 2 dnevno uz obrok.md",
+      "x": 1620,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sesija_20260419a_labelerImpl",
+      "type": "file",
+      "file": "graphify/obsidian/Labeler implementacija (facebook.py \u2014 FB custom labele).md",
+      "x": 1820,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_trudnoca_dojenje_medicinskiFlag",
+      "type": "file",
+      "file": "graphify/obsidian/Medicinski flag trudnocadojenje \u2014 uputi na lekara.md",
+      "x": 1420,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_deca_mladji_uzrastPravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo primena po uzrastu dece.md",
+      "x": 1620,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sesija_20260419a_railwayFail",
+      "type": "file",
+      "file": "graphify/obsidian/Railway fail \u2014 3 failovana servisa, ostao monolitni.md",
+      "x": 1820,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_sesija_20260419a_sesija",
+      "type": "file",
+      "file": "graphify/obsidian/Sesija 19.04.2026 2325 \u2014 KB reorganizacija + Labeler implementacija.md",
+      "x": 1420,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_trudnoca_dojenje_rezervacija",
+      "type": "file",
+      "file": "graphify/obsidian/Strategija rezervacija za posle porodjajadojenja.md",
+      "x": 1620,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_primena_proizvoda_synchrovitalsDoziranje",
+      "type": "file",
+      "file": "graphify/obsidian/Synchrovitals jutarnja pre dorucka, vecernja pred spavanje.md",
+      "x": 1820,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_primena_proizvoda_uputstvo",
+      "type": "file",
+      "file": "graphify/obsidian/Uputstvo za upotrebu proizvoda (balzamkapsulecajsynchrovitals).md",
+      "x": 1420,
+      "y": 1580,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g6",
+      "type": "group",
+      "label": "Ubjedjivanje i Argumenti",
+      "x": 2580,
+      "y": 1100,
+      "width": 880,
+      "height": 620,
+      "color": "1"
+    },
+    {
+      "id": "n_certifikati_sigurnost_argumenti",
+      "type": "file",
+      "file": "graphify/obsidian/Argumenti 29 god, ministarstvo, 68 zemalja, fiskalni racun.md",
+      "x": 2600,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_trajanje_rezultata_balzamEfekat",
+      "type": "file",
+      "file": "graphify/obsidian/Balzam efekat za 5 minuta od prvog nano\u0161enja.md",
+      "x": 2800,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_ubjedjivanje_argumentLibrary",
+      "type": "file",
+      "file": "graphify/obsidian/Biblioteka argumenata A1-A8 (priroda, licni primer, firma, dostava...).md",
+      "x": 3000,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_ubjedjivanje_dijagnozaPrigovora",
+      "type": "file",
+      "file": "graphify/obsidian/Dijagnoza prigovora poverenje vs cena.md",
+      "x": 2600,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_trajanje_rezultata_kapsuleEfekat",
+      "type": "file",
+      "file": "graphify/obsidian/Kapsule prva razlika 5-6 dana, pun efekat 30 dana.md",
+      "x": 2800,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_certifikati_sigurnost_sigurnostPravilo",
+      "type": "file",
+      "file": "graphify/obsidian/Pravilo sigurnost i sertifikati proizvoda.md",
+      "x": 3000,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_ubjedjivanje_rezervacijaClose",
+      "type": "file",
+      "file": "graphify/obsidian/Rezervacija close (Faza 3) nema para  datum  3x pokusaj.md",
+      "x": 2600,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_ubjedjivanje_sidrenje",
+      "type": "file",
+      "file": "graphify/obsidian/Sidrenje vrednosti 1.6 KM dnevno (komplet 49.94 KM).md",
+      "x": 2800,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_certifikati_sigurnost_skepticniKlijent",
+      "type": "file",
+      "file": "graphify/obsidian/Situacija skeptican klijent (je li pravo).md",
+      "x": 3000,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_ubjedjivanje_stanje",
+      "type": "file",
+      "file": "graphify/obsidian/Stanje UBJEDJIVANJE (argumentuj, close pitanja, 3 poku\u0161aja).md",
+      "x": 2600,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_trajanje_rezultata_vremenOkviri",
+      "type": "file",
+      "file": "graphify/obsidian/Vremenski okviri rezultata (5min, 5-6 dana, 30 dana, 80%).md",
+      "x": 2800,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_state_ubjedjivanje_zabranaKvalifikacije",
+      "type": "file",
+      "file": "graphify/obsidian/Zabrana kvalifikacije u UBJEDJIVANJU (ne pitaj o simptomima).md",
+      "x": 3000,
+      "y": 1420,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_trajanje_rezultata_zabranjenoObecanje",
+      "type": "file",
+      "file": "graphify/obsidian/Zabranjeno ne obecavati 100% izlecenje ili garanciju.md",
+      "x": 2600,
+      "y": 1500,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g7",
+      "type": "group",
+      "label": "Zatvaranje i Dostava",
+      "x": 3760,
+      "y": 1100,
+      "width": 660,
+      "height": 420,
+      "color": "2"
+    },
+    {
+      "id": "n_dostava_struktura",
+      "type": "file",
+      "file": "graphify/obsidian/Dostava \u2014 informacije i pravila.md",
+      "x": 3780,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_klijent_kaze_da_zatvaranje",
+      "type": "file",
+      "file": "graphify/obsidian/Klijent ka\u017ee DA \u2014 odmah uzmi adresu.md",
+      "x": 3980,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_odgada_zatvaranje",
+      "type": "file",
+      "file": "graphify/obsidian/Klijent odga\u0111a \u2014 ponudi rezervaciju.md",
+      "x": 4180,
+      "y": 1180,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_razmislicu_zatvaranje",
+      "type": "file",
+      "file": "graphify/obsidian/Razmisli\u0107u \u2014 dijagnoza prigovora.md",
+      "x": 3780,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_upsell_flow",
+      "type": "file",
+      "file": "graphify/obsidian/Upsell flow komplet + \u010dajSynchrovitals.md",
+      "x": 3980,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_upsell_zatvaranje",
+      "type": "file",
+      "file": "graphify/obsidian/Upsell \u2014 \u010daj ili Synchrovitals.md",
+      "x": 4180,
+      "y": 1260,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_urgencija_zatvaranje",
+      "type": "file",
+      "file": "graphify/obsidian/Urgencija \u2014 ograni\u010dene zalihe.md",
+      "x": 3780,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "n_concept_zatvaranje",
+      "type": "file",
+      "file": "graphify/obsidian/Zatvaranje kategorija.md",
+      "x": 3980,
+      "y": 1340,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g8",
+      "type": "group",
+      "label": "Sesija 17.04",
+      "x": 0,
+      "y": 1900,
+      "width": 600,
+      "height": 400,
+      "color": "3"
+    },
+    {
+      "id": "n_sesija_20260417_sesija",
+      "type": "file",
+      "file": "graphify/obsidian/Sesija 17.04.2026 (automatski generisana, bez podataka).md",
+      "x": 20,
+      "y": 1980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g9",
+      "type": "group",
+      "label": "Sesija 18.04 Jutro",
+      "x": 1400,
+      "y": 1900,
+      "width": 600,
+      "height": 400,
+      "color": "4"
+    },
+    {
+      "id": "n_sesija_20260418a_sesija",
+      "type": "file",
+      "file": "graphify/obsidian/Sesija 18.04.2026 1344 (automatski generisana, bez podataka).md",
+      "x": 1420,
+      "y": 1980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g10",
+      "type": "group",
+      "label": "Sesija 18.04 Vece",
+      "x": 2580,
+      "y": 1900,
+      "width": 600,
+      "height": 400,
+      "color": "5"
+    },
+    {
+      "id": "n_sesija_20260418b_sesija",
+      "type": "file",
+      "file": "graphify/obsidian/Sesija 18.04.2026 1722 (automatski generisana, bez podataka).md",
+      "x": 2600,
+      "y": 1980,
+      "width": 180,
+      "height": 60
+    },
+    {
+      "id": "g11",
+      "type": "group",
+      "label": "Sesija 19.04",
+      "x": 3760,
+      "y": 1900,
+      "width": 600,
+      "height": 400,
+      "color": "6"
+    },
+    {
+      "id": "n_sesija_20260419b_sesija",
+      "type": "file",
+      "file": "graphify/obsidian/Sesija 19.04.2026 2327 (automatski generisana, bez podataka).md",
+      "x": 3780,
+      "y": 1980,
+      "width": 180,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_safe_exit",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_safe_exit",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_read_transcript",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_read_transcript",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_call_claude",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_call_claude",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_parse_metadata",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_parse_metadata",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_write_session",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_write_session",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_update_index",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_update_index",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_update_tema",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_update_tema",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_extract_and_append_feedback",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_extract_and_append_feedback",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_extract_and_append_todo",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_extract_and_append_todo",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_git_commit_and_push",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_git_commit_and_push",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_fallback_report",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_fallback_report",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_main",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_main",
+      "label": "contains [EXTRACTED]"
+    },
+    {
+      "id": "e_c_users_medion_desktop_flexi_brain_tools_brain_save_py_brain_save_rationale_1",
+      "fromNode": "n_c_users_medion_desktop_flexi_brain_tools_brain_save_py",
+      "toNode": "n_brain_save_rationale_1",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_safe_exit_brain_save_main",
+      "fromNode": "n_brain_save_safe_exit",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_read_transcript_brain_save_main",
+      "fromNode": "n_brain_save_read_transcript",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_read_transcript_brain_save_rationale_47",
+      "fromNode": "n_brain_save_read_transcript",
+      "toNode": "n_brain_save_rationale_47",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_call_claude_brain_save_main",
+      "fromNode": "n_brain_save_call_claude",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_call_claude_brain_save_rationale_98",
+      "fromNode": "n_brain_save_call_claude",
+      "toNode": "n_brain_save_rationale_98",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_parse_metadata_brain_save_main",
+      "fromNode": "n_brain_save_parse_metadata",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_parse_metadata_brain_save_rationale_127",
+      "fromNode": "n_brain_save_parse_metadata",
+      "toNode": "n_brain_save_rationale_127",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_write_session_brain_save_main",
+      "fromNode": "n_brain_save_write_session",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_write_session_brain_save_rationale_149",
+      "fromNode": "n_brain_save_write_session",
+      "toNode": "n_brain_save_rationale_149",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_update_index_brain_save_main",
+      "fromNode": "n_brain_save_update_index",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_update_index_brain_save_rationale_169",
+      "fromNode": "n_brain_save_update_index",
+      "toNode": "n_brain_save_rationale_169",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_update_tema_brain_save_main",
+      "fromNode": "n_brain_save_update_tema",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_update_tema_brain_save_rationale_210",
+      "fromNode": "n_brain_save_update_tema",
+      "toNode": "n_brain_save_rationale_210",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_extract_and_append_feedback_brain_save_main",
+      "fromNode": "n_brain_save_extract_and_append_feedback",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_extract_and_append_feedback_brain_save_rationale_243",
+      "fromNode": "n_brain_save_extract_and_append_feedback",
+      "toNode": "n_brain_save_rationale_243",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_extract_and_append_todo_brain_save_main",
+      "fromNode": "n_brain_save_extract_and_append_todo",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_extract_and_append_todo_brain_save_rationale_268",
+      "fromNode": "n_brain_save_extract_and_append_todo",
+      "toNode": "n_brain_save_rationale_268",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_git_commit_and_push_brain_save_main",
+      "fromNode": "n_brain_save_git_commit_and_push",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_git_commit_and_push_brain_save_rationale_292",
+      "fromNode": "n_brain_save_git_commit_and_push",
+      "toNode": "n_brain_save_rationale_292",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_fallback_report_brain_save_main",
+      "fromNode": "n_brain_save_fallback_report",
+      "toNode": "n_brain_save_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_fallback_report_brain_save_rationale_316",
+      "fromNode": "n_brain_save_fallback_report",
+      "toNode": "n_brain_save_rationale_316",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_flexi_brain_md_flexi_brain_concept_dragana_bot",
+      "fromNode": "n_flexi_brain_md_flexi_brain",
+      "toNode": "n_concept_dragana_bot",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_flexi_brain_md_flexi_brain_concept_kb_knowledge_base",
+      "fromNode": "n_flexi_brain_md_flexi_brain",
+      "toNode": "n_concept_kb_knowledge_base",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_flexi_brain_md_flexi_brain_concept_railway_sync",
+      "fromNode": "n_flexi_brain_md_flexi_brain",
+      "toNode": "n_concept_railway_sync",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_flexi_brain_md_flexi_brain_brain_save_py_brain_save",
+      "fromNode": "n_flexi_brain_md_flexi_brain",
+      "toNode": "n_brain_save_py_brain_save",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_brain_save_py_update_index",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_brain_save_py_update_index",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_concept_state_machine",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_concept_state_machine",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_cena_skupo",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_cena_skupo",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_nema_para",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_nema_para",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_skepticizam",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_skepticizam",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_sve_probao",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_sve_probao",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_konsultacija_doktor",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_konsultacija_doktor",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_popust",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_popust",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_objekcije_sta_ako_ne_pomogne",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_objekcije_sta_ako_ne_pomogne",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_pravila_cena_bez_simptoma",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_pravila_cena_bez_simptoma",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_pravila_eskalacija",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_pravila_eskalacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_pravila_prva_poruka",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_pravila_prva_poruka",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_pravila_sidrenje_vrijednosti",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_pravila_sidrenje_vrijednosti",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_proizvodi_balzam_kapsule",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_proizvodi_balzam_kapsule",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_proizvodi_betaserc_cirkulacija",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_proizvodi_betaserc_cirkulacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_primeri_ljiljana_sabac",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_primeri_ljiljana_sabac",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_meta_ciljevi_project_goals",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_meta_ciljevi_project_goals",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_meta_feedback_ognjen",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_meta_feedback_ognjen",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_meta_todo_active_tasks",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_meta_todo_active_tasks",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_index_md_index_meta_planirano_backlog",
+      "fromNode": "n_index_md_index",
+      "toNode": "n_meta_planirano_backlog",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_read_transcript_brain_save_py_main",
+      "fromNode": "n_brain_save_py_read_transcript",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_call_claude_brain_save_py_main",
+      "fromNode": "n_brain_save_py_call_claude",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_call_claude_brain_save_py_extract_session_prompt",
+      "fromNode": "n_brain_save_py_call_claude",
+      "toNode": "n_brain_save_py_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_parse_metadata_brain_save_py_main",
+      "fromNode": "n_brain_save_py_parse_metadata",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_parse_metadata_brain_save_py_valid_teme",
+      "fromNode": "n_brain_save_py_parse_metadata",
+      "toNode": "n_brain_save_py_valid_teme",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_write_session_brain_save_py_main",
+      "fromNode": "n_brain_save_py_write_session",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_update_index_brain_save_py_main",
+      "fromNode": "n_brain_save_py_update_index",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_update_tema_brain_save_py_main",
+      "fromNode": "n_brain_save_py_update_tema",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_extract_feedback_brain_save_py_main",
+      "fromNode": "n_brain_save_py_extract_feedback",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_extract_feedback_meta_feedback_ognjen",
+      "fromNode": "n_brain_save_py_extract_feedback",
+      "toNode": "n_meta_feedback_ognjen",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_extract_todo_brain_save_py_main",
+      "fromNode": "n_brain_save_py_extract_todo",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_extract_todo_meta_todo_active_tasks",
+      "fromNode": "n_brain_save_py_extract_todo",
+      "toNode": "n_meta_todo_active_tasks",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_git_push_brain_save_py_main",
+      "fromNode": "n_brain_save_py_git_push",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_brain_save_py_fallback_report_brain_save_py_main",
+      "fromNode": "n_brain_save_py_fallback_report",
+      "toNode": "n_brain_save_py_main",
+      "label": "calls [EXTRACTED]"
+    },
+    {
+      "id": "e_meta_ciljevi_project_goals_concept_dragana_bot",
+      "fromNode": "n_meta_ciljevi_project_goals",
+      "toNode": "n_concept_dragana_bot",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_meta_feedback_ognjen_concept_dragana_bot",
+      "fromNode": "n_meta_feedback_ognjen",
+      "toNode": "n_concept_dragana_bot",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_meta_planirano_backlog_concept_state_machine",
+      "fromNode": "n_meta_planirano_backlog",
+      "toNode": "n_concept_state_machine",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_meta_todo_active_tasks_concept_state_machine",
+      "fromNode": "n_meta_todo_active_tasks",
+      "toNode": "n_concept_state_machine",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_cena_skupo_pravila_sidrenje_vrijednosti",
+      "fromNode": "n_objekcije_cena_skupo",
+      "toNode": "n_pravila_sidrenje_vrijednosti",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_cena_skupo_objekcije_nema_para",
+      "fromNode": "n_objekcije_cena_skupo",
+      "toNode": "n_objekcije_nema_para",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_konsultacija_doktor_concept_reservation_tactic",
+      "fromNode": "n_objekcije_konsultacija_doktor",
+      "toNode": "n_concept_reservation_tactic",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_nema_para_primeri_ljiljana_sabac",
+      "fromNode": "n_objekcije_nema_para",
+      "toNode": "n_primeri_ljiljana_sabac",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_nema_para_concept_reservation_tactic",
+      "fromNode": "n_objekcije_nema_para",
+      "toNode": "n_concept_reservation_tactic",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_popust_primeri_ljiljana_sabac",
+      "fromNode": "n_objekcije_popust",
+      "toNode": "n_primeri_ljiljana_sabac",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_popust_concept_personal_example_tactic",
+      "fromNode": "n_objekcije_popust",
+      "toNode": "n_concept_personal_example_tactic",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_skepticizam_concept_personal_example_tactic",
+      "fromNode": "n_objekcije_skepticizam",
+      "toNode": "n_concept_personal_example_tactic",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_objekcije_sve_probao_concept_dual_action_product",
+      "fromNode": "n_objekcije_sve_probao",
+      "toNode": "n_concept_dual_action_product",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_pravila_sidrenje_vrijednosti_primeri_ljiljana_sabac",
+      "fromNode": "n_pravila_sidrenje_vrijednosti",
+      "toNode": "n_primeri_ljiljana_sabac",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_primeri_ljiljana_sabac_proizvodi_balzam_kapsule",
+      "fromNode": "n_primeri_ljiljana_sabac",
+      "toNode": "n_proizvodi_balzam_kapsule",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_primeri_ljiljana_sabac_concept_state_machine",
+      "fromNode": "n_primeri_ljiljana_sabac",
+      "toNode": "n_concept_state_machine",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_primeri_ljiljana_sabac_concept_reservation_tactic",
+      "fromNode": "n_primeri_ljiljana_sabac",
+      "toNode": "n_concept_reservation_tactic",
+      "label": "cites [EXTRACTED]"
+    },
+    {
+      "id": "e_proizvodi_balzam_kapsule_concept_dual_action_product",
+      "fromNode": "n_proizvodi_balzam_kapsule",
+      "toNode": "n_concept_dual_action_product",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_proizvodi_balzam_kapsule_proizvodi_betaserc_cirkulacija",
+      "fromNode": "n_proizvodi_balzam_kapsule",
+      "toNode": "n_proizvodi_betaserc_cirkulacija",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_proizvodi_betaserc_cirkulacija_concept_samo_balzam_flag",
+      "fromNode": "n_proizvodi_betaserc_cirkulacija",
+      "toNode": "n_concept_samo_balzam_flag",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_concept_dragana_bot_concept_kb_knowledge_base",
+      "fromNode": "n_concept_dragana_bot",
+      "toNode": "n_concept_kb_knowledge_base",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_concept_kb_knowledge_base_concept_railway_sync",
+      "fromNode": "n_concept_kb_knowledge_base",
+      "toNode": "n_concept_railway_sync",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_caj_otekline_cajOtekline_caj_otekline_cajProizvod",
+      "fromNode": "n_caj_otekline_cajOtekline",
+      "toNode": "n_caj_otekline_cajProizvod",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_caj_otekline_cajOtekline_caj_otekline_oteklineSituacija",
+      "fromNode": "n_caj_otekline_cajOtekline",
+      "toNode": "n_caj_otekline_oteklineSituacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_caj_otekline_cajOtekline_caj_otekline_upsellPravilo",
+      "fromNode": "n_caj_otekline_cajOtekline",
+      "toNode": "n_caj_otekline_upsellPravilo",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_caj_otekline_cajProizvod_state_preporuka_stanje",
+      "fromNode": "n_caj_otekline_cajProizvod",
+      "toNode": "n_state_preporuka_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_caj_otekline_cajProizvod_state_zatvaranje_upsellUZatvaranju",
+      "fromNode": "n_caj_otekline_cajProizvod",
+      "toNode": "n_state_zatvaranje_upsellUZatvaranju",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_certifikati_sigurnost_sigurnostPravilo_certifikati_sigurnost_argumenti",
+      "fromNode": "n_certifikati_sigurnost_sigurnostPravilo",
+      "toNode": "n_certifikati_sigurnost_argumenti",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_certifikati_sigurnost_sigurnostPravilo_certifikati_sigurnost_skepticniKlijent",
+      "fromNode": "n_certifikati_sigurnost_sigurnostPravilo",
+      "toNode": "n_certifikati_sigurnost_skepticniKlijent",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_certifikati_sigurnost_argumenti_state_ubjedjivanje_stanje",
+      "fromNode": "n_certifikati_sigurnost_argumenti",
+      "toNode": "n_state_ubjedjivanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_deca_mladji_uzrastPravilo_deca_mladji_flag_samoBalzam",
+      "fromNode": "n_deca_mladji_uzrastPravilo",
+      "toNode": "n_deca_mladji_flag_samoBalzam",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_deca_mladji_uzrastPravilo_deca_mladji_eskalacija",
+      "fromNode": "n_deca_mladji_uzrastPravilo",
+      "toNode": "n_deca_mladji_eskalacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_deca_mladji_uzrastPravilo_sesija_20260419a_kbNoviFajlovi",
+      "fromNode": "n_deca_mladji_uzrastPravilo",
+      "toNode": "n_sesija_20260419a_kbNoviFajlovi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_kicma_nerv_trnjenjeDetekcija_kicma_nerv_kombinacijaKapsuleBalzam",
+      "fromNode": "n_kicma_nerv_trnjenjeDetekcija",
+      "toNode": "n_kicma_nerv_kombinacijaKapsuleBalzam",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_kicma_nerv_trnjenjeDetekcija_kicma_nerv_kicmaSituacija",
+      "fromNode": "n_kicma_nerv_trnjenjeDetekcija",
+      "toNode": "n_kicma_nerv_kicmaSituacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_kicma_nerv_trnjenjeDetekcija_state_prikupljanje_stanje",
+      "fromNode": "n_kicma_nerv_trnjenjeDetekcija",
+      "toNode": "n_state_prikupljanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_kicma_nerv_kombinacijaKapsuleBalzam_state_preporuka_stanje",
+      "fromNode": "n_kicma_nerv_kombinacijaKapsuleBalzam",
+      "toNode": "n_state_preporuka_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_primena_proizvoda_uputstvo_primena_proizvoda_balzamDoziranje",
+      "fromNode": "n_primena_proizvoda_uputstvo",
+      "toNode": "n_primena_proizvoda_balzamDoziranje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_primena_proizvoda_uputstvo_primena_proizvoda_kapsuliDoziranje",
+      "fromNode": "n_primena_proizvoda_uputstvo",
+      "toNode": "n_primena_proizvoda_kapsuliDoziranje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_primena_proizvoda_uputstvo_primena_proizvoda_synchrovitalsDoziranje",
+      "fromNode": "n_primena_proizvoda_uputstvo",
+      "toNode": "n_primena_proizvoda_synchrovitalsDoziranje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_primena_proizvoda_uputstvo_sesija_20260419a_kbNoviFajlovi",
+      "fromNode": "n_primena_proizvoda_uputstvo",
+      "toNode": "n_sesija_20260419a_kbNoviFajlovi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_synchrovitals_povratnik_synchrovitalsPravilo_synchrovitals_povratnik_synchrovitalsProizvod",
+      "fromNode": "n_synchrovitals_povratnik_synchrovitalsPravilo",
+      "toNode": "n_synchrovitals_povratnik_synchrovitalsProizvod",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_synchrovitals_povratnik_synchrovitalsPravilo_synchrovitals_povratnik_povratnikSituacija",
+      "fromNode": "n_synchrovitals_povratnik_synchrovitalsPravilo",
+      "toNode": "n_synchrovitals_povratnik_povratnikSituacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_synchrovitals_povratnik_synchrovitalsProizvod_trajanje_rezultata_vremenOkviri",
+      "fromNode": "n_synchrovitals_povratnik_synchrovitalsProizvod",
+      "toNode": "n_trajanje_rezultata_vremenOkviri",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_synchrovitals_povratnik_synchrovitalsProizvod_state_preporuka_stanje",
+      "fromNode": "n_synchrovitals_povratnik_synchrovitalsProizvod",
+      "toNode": "n_state_preporuka_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_synchrovitals_povratnik_synchrovitalsProizvod_state_zatvaranje_upsellUZatvaranju",
+      "fromNode": "n_synchrovitals_povratnik_synchrovitalsProizvod",
+      "toNode": "n_state_zatvaranje_upsellUZatvaranju",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trajanje_rezultata_vremenOkviri_trajanje_rezultata_balzamEfekat",
+      "fromNode": "n_trajanje_rezultata_vremenOkviri",
+      "toNode": "n_trajanje_rezultata_balzamEfekat",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trajanje_rezultata_vremenOkviri_trajanje_rezultata_kapsuleEfekat",
+      "fromNode": "n_trajanje_rezultata_vremenOkviri",
+      "toNode": "n_trajanje_rezultata_kapsuleEfekat",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trajanje_rezultata_vremenOkviri_trajanje_rezultata_zabranjenoObecanje",
+      "fromNode": "n_trajanje_rezultata_vremenOkviri",
+      "toNode": "n_trajanje_rezultata_zabranjenoObecanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trajanje_rezultata_vremenOkviri_sesija_20260419a_kbNoviFajlovi",
+      "fromNode": "n_trajanje_rezultata_vremenOkviri",
+      "toNode": "n_sesija_20260419a_kbNoviFajlovi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trajanje_rezultata_balzamEfekat_state_ubjedjivanje_stanje",
+      "fromNode": "n_trajanje_rezultata_balzamEfekat",
+      "toNode": "n_state_ubjedjivanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trudnoca_dojenje_medicinskiFlag_trudnoca_dojenje_rezervacija",
+      "fromNode": "n_trudnoca_dojenje_medicinskiFlag",
+      "toNode": "n_trudnoca_dojenje_rezervacija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_trudnoca_dojenje_medicinskiFlag_sesija_20260419a_kbNoviFajlovi",
+      "fromNode": "n_trudnoca_dojenje_medicinskiFlag",
+      "toNode": "n_sesija_20260419a_kbNoviFajlovi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_sesija_sesija_20260419a_ekavskiFix",
+      "fromNode": "n_sesija_20260419a_sesija",
+      "toNode": "n_sesija_20260419a_ekavskiFix",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_sesija_sesija_20260419a_kbNoviFajlovi",
+      "fromNode": "n_sesija_20260419a_sesija",
+      "toNode": "n_sesija_20260419a_kbNoviFajlovi",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_sesija_sesija_20260419a_labelerImpl",
+      "fromNode": "n_sesija_20260419a_sesija",
+      "toNode": "n_sesija_20260419a_labelerImpl",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_sesija_sesija_20260419a_railwayFail",
+      "fromNode": "n_sesija_20260419a_sesija",
+      "toNode": "n_sesija_20260419a_railwayFail",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_sesija_sesija_20260419a_stateLabelMap",
+      "fromNode": "n_sesija_20260419a_sesija",
+      "toNode": "n_sesija_20260419a_stateLabelMap",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_ekavskiFix_ekavski_obavezno_pravilo",
+      "fromNode": "n_sesija_20260419a_ekavskiFix",
+      "toNode": "n_ekavski_obavezno_pravilo",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_labelerImpl_sesija_20260419a_railwayFail",
+      "fromNode": "n_sesija_20260419a_labelerImpl",
+      "toNode": "n_sesija_20260419a_railwayFail",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_pocetak_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_pocetak_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_prikupljanje_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_prikupljanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_preporuka_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_preporuka_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_ubjedjivanje_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_ubjedjivanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_zatvaranje_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_zatvaranje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_porucio_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_porucio_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_sesija_20260419a_stateLabelMap_state_zatvoreno_stanje",
+      "fromNode": "n_sesija_20260419a_stateLabelMap",
+      "toNode": "n_state_zatvoreno_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_pocetak_stanje_state_prikupljanje_stanje",
+      "fromNode": "n_state_pocetak_stanje",
+      "toNode": "n_state_prikupljanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_pocetak_stanje_state_pocetak_vokativPravilo",
+      "fromNode": "n_state_pocetak_stanje",
+      "toNode": "n_state_pocetak_vokativPravilo",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_porucio_stanje_state_zatvaranje_stanje",
+      "fromNode": "n_state_porucio_stanje",
+      "toNode": "n_state_zatvaranje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_porucio_stanje_state_zatvoreno_stanje",
+      "fromNode": "n_state_porucio_stanje",
+      "toNode": "n_state_zatvoreno_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_stanje_state_prikupljanje_stanje",
+      "fromNode": "n_state_preporuka_stanje",
+      "toNode": "n_state_prikupljanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_stanje_state_ubjedjivanje_stanje",
+      "fromNode": "n_state_preporuka_stanje",
+      "toNode": "n_state_ubjedjivanje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_stanje_state_zatvaranje_stanje",
+      "fromNode": "n_state_preporuka_stanje",
+      "toNode": "n_state_zatvaranje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_stanje_state_preporuka_flagoviPrilagodjavanje",
+      "fromNode": "n_state_preporuka_stanje",
+      "toNode": "n_state_preporuka_flagoviPrilagodjavanje",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_stanje_state_preporuka_cenaPravilo",
+      "fromNode": "n_state_preporuka_stanje",
+      "toNode": "n_state_preporuka_cenaPravilo",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_flagoviPrilagodjavanje_state_prikupljanje_flag_samoBalzam",
+      "fromNode": "n_state_preporuka_flagoviPrilagodjavanje",
+      "toNode": "n_state_prikupljanje_flag_samoBalzam",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_preporuka_flagoviPrilagodjavanje_state_prikupljanje_flag_bezMedGarancija",
+      "fromNode": "n_state_preporuka_flagoviPrilagodjavanje",
+      "toNode": "n_state_prikupljanje_flag_bezMedGarancija",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_prikupljanje_stanje_state_prikupljanje_mapaLokacija",
+      "fromNode": "n_state_prikupljanje_stanje",
+      "toNode": "n_state_prikupljanje_mapaLokacija",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_prikupljanje_stanje_state_prikupljanje_flag_samoBalzam",
+      "fromNode": "n_state_prikupljanje_stanje",
+      "toNode": "n_state_prikupljanje_flag_samoBalzam",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_prikupljanje_stanje_state_prikupljanje_flag_bezMedGarancija",
+      "fromNode": "n_state_prikupljanje_stanje",
+      "toNode": "n_state_prikupljanje_flag_bezMedGarancija",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_ubjedjivanje_stanje_state_zatvaranje_stanje",
+      "fromNode": "n_state_ubjedjivanje_stanje",
+      "toNode": "n_state_zatvaranje_stanje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_state_ubjedjivanje_stanje_state_ubjedjivanje_argumentLibrary",
+      "fromNode": "n_state_ubjedjivanje_stanje",
+      "toNode": "n_state_ubjedjivanje_argumentLibrary",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_ubjedjivanje_stanje_state_ubjedjivanje_dijagnozaPrigovora",
+      "fromNode": "n_state_ubjedjivanje_stanje",
+      "toNode": "n_state_ubjedjivanje_dijagnozaPrigovora",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_ubjedjivanje_stanje_state_ubjedjivanje_rezervacijaClose",
+      "fromNode": "n_state_ubjedjivanje_stanje",
+      "toNode": "n_state_ubjedjivanje_rezervacijaClose",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_ubjedjivanje_stanje_state_ubjedjivanje_sidrenje",
+      "fromNode": "n_state_ubjedjivanje_stanje",
+      "toNode": "n_state_ubjedjivanje_sidrenje",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_ubjedjivanje_stanje_state_ubjedjivanje_zabranaKvalifikacije",
+      "fromNode": "n_state_ubjedjivanje_stanje",
+      "toNode": "n_state_ubjedjivanje_zabranaKvalifikacije",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_zatvaranje_stanje_state_zatvaranje_upsellUZatvaranju",
+      "fromNode": "n_state_zatvaranje_stanje",
+      "toNode": "n_state_zatvaranje_upsellUZatvaranju",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_zatvaranje_stanje_state_zatvaranje_podaciDostava",
+      "fromNode": "n_state_zatvaranje_stanje",
+      "toNode": "n_state_zatvaranje_podaciDostava",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_state_zatvoreno_stanje_state_zatvoreno_adminReopen",
+      "fromNode": "n_state_zatvoreno_stanje",
+      "toNode": "n_state_zatvoreno_adminReopen",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_ekavski_obavezno_pravilo_ekavski_obavezno_izvor",
+      "fromNode": "n_ekavski_obavezno_pravilo",
+      "toNode": "n_ekavski_obavezno_izvor",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_empatija_pre_prodaje_rule_concept_stil_govora",
+      "fromNode": "n_empatija_pre_prodaje_rule",
+      "toNode": "n_concept_stil_govora",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_empatija_pre_prodaje_rule_dragana_tema",
+      "fromNode": "n_empatija_pre_prodaje_rule",
+      "toNode": "n_dragana_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_empatija_pre_prodaje_rule_rationale_empatija_spam",
+      "fromNode": "n_empatija_pre_prodaje_rule",
+      "toNode": "n_rationale_empatija_spam",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_kratke_poruke_rule_concept_stil_govora",
+      "fromNode": "n_kratke_poruke_rule",
+      "toNode": "n_concept_stil_govora",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_kratke_poruke_rule_dragana_tema",
+      "fromNode": "n_kratke_poruke_rule",
+      "toNode": "n_dragana_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_kratke_poruke_rule_format_poruka_struktura",
+      "fromNode": "n_kratke_poruke_rule",
+      "toNode": "n_format_poruka_struktura",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_max3pitanja_rule_concept_stil_govora",
+      "fromNode": "n_max3pitanja_rule",
+      "toNode": "n_concept_stil_govora",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_max3pitanja_rule_dragana_tema",
+      "fromNode": "n_max3pitanja_rule",
+      "toNode": "n_dragana_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_nema_laznih_obecanja_rule_concept_stil_govora",
+      "fromNode": "n_nema_laznih_obecanja_rule",
+      "toNode": "n_concept_stil_govora",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_nema_laznih_obecanja_rule_rationale_nema_obecanja_legal",
+      "fromNode": "n_nema_laznih_obecanja_rule",
+      "toNode": "n_rationale_nema_obecanja_legal",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_nema_ponavljanja_rule_concept_stil_govora",
+      "fromNode": "n_nema_ponavljanja_rule",
+      "toNode": "n_concept_stil_govora",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_nema_ponavljanja_rule_rationale_nema_ponavljanja_trust",
+      "fromNode": "n_nema_ponavljanja_rule",
+      "toNode": "n_rationale_nema_ponavljanja_trust",
+      "label": "rationale_for [EXTRACTED]"
+    },
+    {
+      "id": "e_dostava_struktura_upsell_zatvaranje",
+      "fromNode": "n_dostava_struktura",
+      "toNode": "n_upsell_zatvaranje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_downsell_balzam_struktura_client_schema",
+      "fromNode": "n_downsell_balzam_struktura",
+      "toNode": "n_client_schema",
+      "label": "shares_data_with [EXTRACTED]"
+    },
+    {
+      "id": "e_downsell_balzam_struktura_concept_downsell_flow",
+      "fromNode": "n_downsell_balzam_struktura",
+      "toNode": "n_concept_downsell_flow",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_format_poruka_struktura_dragana_tema",
+      "fromNode": "n_format_poruka_struktura",
+      "toNode": "n_dragana_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adminhandler_tema_reaktivacija_tema",
+      "fromNode": "n_adminhandler_tema",
+      "toNode": "n_reaktivacija_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_adminhandler_tema_extract_session_prompt",
+      "fromNode": "n_adminhandler_tema",
+      "toNode": "n_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_briefing_tema_extract_session_prompt",
+      "fromNode": "n_briefing_tema",
+      "toNode": "n_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_tema_dragana_tema",
+      "fromNode": "n_database_tema",
+      "toNode": "n_dragana_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_tema_reaktivacija_tema",
+      "fromNode": "n_database_tema",
+      "toNode": "n_reaktivacija_tema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_tema_extract_session_prompt",
+      "fromNode": "n_database_tema",
+      "toNode": "n_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_database_tema_client_schema",
+      "fromNode": "n_database_tema",
+      "toNode": "n_client_schema",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dragana_tema_concept_stil_govora",
+      "fromNode": "n_dragana_tema",
+      "toNode": "n_concept_stil_govora",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dragana_tema_concept_zatvaranje",
+      "fromNode": "n_dragana_tema",
+      "toNode": "n_concept_zatvaranje",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_dragana_tema_tooluse_schema",
+      "fromNode": "n_dragana_tema",
+      "toNode": "n_tooluse_schema",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_dragana_tema_extract_session_prompt",
+      "fromNode": "n_dragana_tema",
+      "toNode": "n_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_followup_tema_extract_session_prompt",
+      "fromNode": "n_followup_tema",
+      "toNode": "n_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_reaktivacija_tema_concept_ab_scoring",
+      "fromNode": "n_reaktivacija_tema",
+      "toNode": "n_concept_ab_scoring",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_reaktivacija_tema_extract_session_prompt",
+      "fromNode": "n_reaktivacija_tema",
+      "toNode": "n_extract_session_prompt",
+      "label": "references [EXTRACTED]"
+    },
+    {
+      "id": "e_klijent_kaze_da_zatvaranje_concept_zatvaranje",
+      "fromNode": "n_klijent_kaze_da_zatvaranje",
+      "toNode": "n_concept_zatvaranje",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_odgada_zatvaranje_concept_zatvaranje",
+      "fromNode": "n_odgada_zatvaranje",
+      "toNode": "n_concept_zatvaranje",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_razmislicu_zatvaranje_concept_zatvaranje",
+      "fromNode": "n_razmislicu_zatvaranje",
+      "toNode": "n_concept_zatvaranje",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_upsell_zatvaranje_concept_zatvaranje",
+      "fromNode": "n_upsell_zatvaranje",
+      "toNode": "n_concept_zatvaranje",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_upsell_zatvaranje_concept_upsell_flow",
+      "fromNode": "n_upsell_zatvaranje",
+      "toNode": "n_concept_upsell_flow",
+      "label": "implements [EXTRACTED]"
+    },
+    {
+      "id": "e_urgencija_zatvaranje_concept_zatvaranje",
+      "fromNode": "n_urgencija_zatvaranje",
+      "toNode": "n_concept_zatvaranje",
+      "label": "conceptually_related_to [EXTRACTED]"
+    },
+    {
+      "id": "e_client_schema_tooluse_schema",
+      "fromNode": "n_client_schema",
+      "toNode": "n_tooluse_schema",
+      "label": "shares_data_with [EXTRACTED]"
+    }
+  ]
+}

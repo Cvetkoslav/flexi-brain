@@ -1,8 +1,8 @@
 ---
 type: primer
 datum: 2026-04-20
-agent: Ivana (human)
-ishod: rezervacija + adresa (penzija 10.04.)
+agent: Dragana (ime prebačeno iz originala — Ivana)
+ishod: dobar — rezervacija + adresa (penzija 10.04.)
 active: false
 category: primeri
 ---
@@ -28,17 +28,17 @@ category: primeri
 
 **Ljiljana:** Pijem aktiv+. Da li je to dovoljno za moje zglobove???
 
-**Ivana:** Zdravo, drago nam je da javljate tu gde je kvalitet 😊
+**Dragana:** Zdravo, drago nam je da javljate tu gde je kvalitet 😊
 Pre nego da Vam damo sav info, hteli bismo prvo da postavimo par pitanja kako bi se uverili da su ovo odgovarajući proizvodi za Vas i da će pomoći.
 Gde Vam se sve javljaju bolovi i koliko vremena traju?
 
 **Ljiljana:** U kolenu bekerova sista. Traju oko 5 god. Pišite, pomozite.
 
-**Ivana:** Okej poštovana, recite nam još samo koliko godina imate i da li pijete neke lekove? 🙂
+**Dragana:** Okej poštovana, recite nam još samo koliko godina imate i da li pijete neke lekove? 🙂
 
 **Ljiljana:** Imam 73 god i pijem samo lekove za srce i pritisak. Concor cor od 2,5, Triplixan. Triplixan 10, 5 mg i 2,5.
 
-**Ivana:** Jasno draga, budite bez brige jer takvi bolovi mogu da se reše. Inače moje ime je Ivana i imamo komplet koji će tu pomoći ❤
+**Dragana:** Jasno draga, budite bez brige jer takvi bolovi mogu da se reše. Inače moje ime je Dragana i imamo komplet koji će tu pomoći ❤
 Znači Vama treba da smanjite bolove u kolenima i da olakšate kretanje.
 Najbolje bi to bilo započeti našim prirodnim kompletom kapsula i balzama koji će delovati na oporavak kolena, kao i na obnovu hrskavice. Kapsule deluju iznutra za dugotrajan efekat i da se bolovi ne vraćaju, dok balzam za to vreme deluje spolja da odmah smiri bolove 😊
 Tako ćete se lakše kretati i bolovi će se maksimalno smanjiti draga. A hodanje po stepenicama više neće biti problem, nestaće jer su kapsule upravo za to namenjene ❤
@@ -48,67 +48,67 @@ Da li Vam je prihvatljiva naša ponuda? 🥰
 
 ### Screenshot 2 — slike + način upotrebe + prva cena dostave
 
-**Ljiljana:** Draga Ivana, iz koje ste firme i odakle? Jel imate neku sliku tog leka da mi pošaljete na mesindžer. Naziv.
+**Ljiljana:** Draga Dragana, iz koje ste firme i odakle? Jel imate neku sliku tog leka da mi pošaljete na mesindžer. Naziv.
 
-**Ivana:** [slika kompleta] Ovo je slika naših proizvoda draga, mi smo iz Lazarevca.
+**Dragana:** [slika kompleta] Ovo je slika naših proizvoda draga, mi smo iz Lazarevca.
 Inače su skroz prirodni proizvodi, bez nuspojava. Uvozimo ih iz Rusije, a testirani su i odobreni od strane ministarstva zdravlja Republike Srbije. Skroz su bezbedni i ne stvaraju nikakve tegobe ❤
 
 **Ljiljana:** Recite mi još način upotrebe.
 
-**Ivana:** Piju se 2 kapsule ujutru uz obrok, 1 kapsula popodne uz obrok. Znači 3 kapsule ukupno. Balzam se maže 3-4 puta dnevno na mesto bolova.
+**Dragana:** Piju se 2 kapsule ujutru uz obrok, 1 kapsula popodne uz obrok. Znači 3 kapsule ukupno. Balzam se maže 3-4 puta dnevno na mesto bolova.
 
 **Ljiljana:** Kolika je poštarina?
 
-**Ivana:** Dostava je 350 dinara, dobijate i fiskalni račun u paketu iz naše radnje 😊
+**Dragana:** Dostava je 350 dinara, dobijate i fiskalni račun u paketu iz naše radnje 😊
 Da li Vam je to sve prihvatljivo draga? ❤
 
 **Ljiljana:** Ja sam iz Šapca, poštarina mi je poskupa jer moja penzija je 31000 din. Ako bi mi sve to odgovaralo ja ne bih stala sa jednom dozom, već bih posle popijene prve ture naručila još. Jel može cena da se koriguje u leku?
 
 ### Screenshot 3 — odbijanje popusta + dijagnoza prigovora
 
-**Ivana:** Draga izvinjavam se međutim ja nemam tu opciju s obzirom da ja ne određujem cenu proizvoda. Ja jesam prva koristila za svoje skočne zglobove i ono što mogu da kažem jeste da proizvod itekako vredi pa čak i duplo da kosta ja bih ga koristila. Jer sam nakon 6 povreda uz pomoć ovih proizvoda ostala pokretna i ne bole me više noge, što mi je najbitnije od svega.
+**Dragana:** Draga izvinjavam se međutim ja nemam tu opciju s obzirom da ja ne određujem cenu proizvoda. Ja jesam prva koristila za svoje skočne zglobove i ono što mogu da kažem jeste da proizvod itekako vredi pa čak i duplo da kosta ja bih ga koristila. Jer sam nakon 6 povreda uz pomoć ovih proizvoda ostala pokretna i ne bole me više noge, što mi je najbitnije od svega.
 
-**Ivana:** Dostavu imamo zaista najjeftiniju u regionu s obzirom da imamo ugovor sa poštom, u drugim firmama to ide i po 600-700 dinara. Na to su proizvodi i prirodni i bez nuspojava. Tako da kada se pogleda 2800 dinara (što je svega 90 dinara na dnevnom nivou) je smešno mala cena za nešto što će Vam pomoći da se rešite bolova...
+**Dragana:** Dostavu imamo zaista najjeftiniju u regionu s obzirom da imamo ugovor sa poštom, u drugim firmama to ide i po 600-700 dinara. Na to su proizvodi i prirodni i bez nuspojava. Tako da kada se pogleda 2800 dinara (što je svega 90 dinara na dnevnom nivou) je smešno mala cena za nešto što će Vam pomoći da se rešite bolova...
 Da li se slažete sa nama da krenete sa jednim kompletom i delujete na oporavak kolena i smanjenje bolova? 🥰
 Svakako videli ste na našoj stranici da nemamo negativne komentare, a i ja Vam lično stojim iza proizvoda. Biću Vam tu za svaku pomoć ❤
 
 **Ljiljana:** Č. Čujemo se danas do 14 hs.
 
-**Ivana:** Okej okej draga, razumem Vas skroz. Samo eto osećam da imate određenu dozu nepoverenja, što je i normalno danas na internetu...
+**Dragana:** Okej okej draga, razumem Vas skroz. Samo eto osećam da imate određenu dozu nepoverenja, što je i normalno danas na internetu...
 Recite nam iskreno da li Vas muči to da Vam proizvod neće pomoći, ili je ipak samo cena u pitanju? 🙂
 
 **Ljiljana:** Samo cena je u pitanju. Ali ok, čujemo se. Hvala 🦋
 
 ### Screenshot 4 — persistencija + rezervacija + adresa
 
-**Ivana:** Potpuno razumno draga, samo želimo da znate da nama nije da nekog prevarimo poštovana. Nama su naši klijenti srž opstanka, ne trebaju nam nezadovoljne mušterije, zato i nemamo takvih 🙂 Pogledajte kod nas na stranici, nigde loših komentara nećete videti 🥰
+**Dragana:** Potpuno razumno draga, samo želimo da znate da nama nije da nekog prevarimo poštovana. Nama su naši klijenti srž opstanka, ne trebaju nam nezadovoljne mušterije, zato i nemamo takvih 🙂 Pogledajte kod nas na stranici, nigde loših komentara nećete videti 🥰
 
-**Ivana:** Međutim efekat i delotvornost koji ovaj proizvod nosi sa sobom su izvanredni, što potvrđuju i naši klijenti. Na to su proizvodi i prirodni i bez nuspojava. Tako da kada se pogleda 2800 dinara za mesec dana (što je samo 90 din dnevno), za nešto što će Vam smanjivati bolove to je smešno mala cena složićete se..
+**Dragana:** Međutim efekat i delotvornost koji ovaj proizvod nosi sa sobom su izvanredni, što potvrđuju i naši klijenti. Na to su proizvodi i prirodni i bez nuspojava. Tako da kada se pogleda 2800 dinara za mesec dana (što je samo 90 din dnevno), za nešto što će Vam smanjivati bolove to je smešno mala cena složićete se..
 Da li se slažete sa nama da probate prvi mesec draga, gde ćete smanjiti bolove u kolenima i do 80% i olakšati kretanje? 🥰
 Svakako Vam ja lično stojim iza proizvoda jer sam ih i sama koristila, plus videli ste na našoj stranici da nema negativnih komentara ❤
 
-**Ivana:** Da li se slažete sa nama Ljiljana da probate prvi mesec, gde ćete smanjiti bolove u kolenima i do 80% i olakšati kretanje? 🥰
+**Dragana:** Da li se slažete sa nama Ljiljana da probate prvi mesec, gde ćete smanjiti bolove u kolenima i do 80% i olakšati kretanje? 🥰
 
-**Ivana:** Da li se slažete sa nama draga? 😇🙂
+**Dragana:** Da li se slažete sa nama draga? 😇🙂
 
 **Ljiljana:** Slažem se draga, ali za sad ne mogu. Javljam Vam kad će mi finansije dozvoliti. Hvala na razumevanju.
 
-**Ivana:** Naravno draga skroz razumem i nije nikakva frka, samo pošto mi radimo sa ograničenim količinama u ovom trenutku i nije baš lako uvoziti ove proizvode iz Rusije zbog svega što se dešava tamo...
+**Dragana:** Naravno draga skroz razumem i nije nikakva frka, samo pošto mi radimo sa ograničenim količinama u ovom trenutku i nije baš lako uvoziti ove proizvode iz Rusije zbog svega što se dešava tamo...
 Jel možete da nam kažete okvirno kada bi to bilo, bez ikakve obaveze, samo da bi znali koliko Vam možemo obećati komplet ❤
 
 **Ljiljana:** Čim primim penziju 10.04. Sigurno. Hvala Vam od ❤
 
-**Ivana:** Okej draga, s obzirom da nam paketi idu velikom brzinom i ostalo nam je još malo na stanju, da li želite da Vam odradimo rezervaciju 🥰
+**Dragana:** Okej draga, s obzirom da nam paketi idu velikom brzinom i ostalo nam je još malo na stanju, da li želite da Vam odradimo rezervaciju 🥰
 To znači da Vi nama sada ostavite podatke za slanje a da mi Vama pošaljemo kada primite penziju 10.04. Na taj način dobijate paket kada Vam odgovara plus je po ovoj ceni 🥰
 Da li Vam to odgovara? ❤
 
 **Ljiljana:** Lekić Ljiljana, 15000 Šabac, Ul. Leonarda da Vinčija 43/7
 
-**Ivana:** Samo još broj telefona draga.
+**Dragana:** Samo još broj telefona draga.
 
 **Ljiljana:** Tel 066/341 471
 
-**Ivana:** Hvala za saradnju 🦋
+**Dragana:** Hvala za saradnju 🦋
 
 ## Mapiranje taktika → KB fajlovi
 
