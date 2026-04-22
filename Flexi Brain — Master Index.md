@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/INDEX.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Flexi Brain — Master Index
@@ -32,4 +32,4 @@ tags:
 - [[TODO — Active Development Tasks]] - `references` [EXTRACTED]
 - [[_update_index() — INDEX.md Updater]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

@@ -1,11 +1,11 @@
 ---
 source_file: "states/UBJEDJIVANJE.md"
 type: "document"
-community: "Ubjedjivanje i Argumenti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ubjedjivanje_i_Argumenti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Stanje: UBJEDJIVANJE (argumentuj, close pitanja, 3 pokušaja)
@@ -22,4 +22,4 @@ tags:
 - [[Stanje ZATVARANJE (prikupi ime, adresu, telefon)]] - `references` [EXTRACTED]
 - [[Zabrana kvalifikacije u UBJEDJIVANJU (ne pitaj o simptomima)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ubjedjivanje_i_Argumenti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

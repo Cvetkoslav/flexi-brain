@@ -1,17 +1,18 @@
 ---
-source_file: "flexi-brain/zatvaranje/klijent-kaze-da.md"
+source_file: "zatvaranje/klijent-kaze-da.md"
 type: "document"
-community: "Zatvaranje i Dostava"
+community: "Zatvaranje Taktike"
+location: "Pravilo"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Zatvaranje_i_Dostava
+  - community/Zatvaranje_Taktike
 ---
 
-# Klijent kaže DA — odmah uzmi adresu
+# Klijent Kaže DA — Odmah Uzmi Adresu
 
 ## Connections
-- [[Urgencija — ograničene zalihe]] - `conceptually_related_to` [INFERRED]
-- [[Zatvaranje kategorija]] - `conceptually_related_to` [EXTRACTED]
+- [[Upsell u Zatvaranju]] - `conceptually_related_to` [EXTRACTED]
+- [[Urgencija — Ograničene Zalihe]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Zatvaranje_i_Dostava
+#graphify/document #graphify/EXTRACTED #community/Zatvaranje_Taktike

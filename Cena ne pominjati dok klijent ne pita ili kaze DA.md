@@ -1,11 +1,11 @@
 ---
 source_file: "states/PREPORUKA.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Cena: ne pominjati dok klijent ne pita ili kaze DA
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Stanje PREPORUKA (edukacija + prilagodjena preporuka + cena)]] - `rationale_for` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

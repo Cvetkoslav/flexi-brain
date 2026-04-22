@@ -1,17 +1,17 @@
 ---
-source_file: "flexi-brain/zatvaranje/urgencija.md"
+source_file: "zatvaranje/urgencija.md"
 type: "document"
-community: "Zatvaranje i Dostava"
+community: "Zatvaranje Taktike"
+location: "Pravilo"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Zatvaranje_i_Dostava
+  - graphify/INFERRED
+  - community/Zatvaranje_Taktike
 ---
 
-# Urgencija — ograničene zalihe
+# Urgencija — Ograničene Zalihe
 
 ## Connections
-- [[Klijent kaže DA — odmah uzmi adresu]] - `conceptually_related_to` [INFERRED]
-- [[Zatvaranje kategorija]] - `conceptually_related_to` [EXTRACTED]
+- [[Klijent Kaže DA — Odmah Uzmi Adresu]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Zatvaranje_i_Dostava
+#graphify/document #graphify/INFERRED #community/Zatvaranje_Taktike

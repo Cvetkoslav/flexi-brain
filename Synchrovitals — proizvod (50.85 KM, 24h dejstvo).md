@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/synchrovitals-povratnik.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Synchrovitals — proizvod (50.85 KM, 24h dejstvo)
@@ -16,4 +16,4 @@ tags:
 - [[Upsell u ZATVARANJU caj ili Synchrovitals uz narudžbu]] - `references` [EXTRACTED]
 - [[Vremenski okviri rezultata (5min, 5-6 dana, 30 dana, 80%)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

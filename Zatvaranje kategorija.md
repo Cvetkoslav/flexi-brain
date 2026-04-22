@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/zatvaranje/klijent-kaze-da.md"
 type: "document"
-community: "Zatvaranje i Dostava"
+community: "Bot Arhitektura i Infrastruktura"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Zatvaranje_i_Dostava
+  - community/Bot_Arhitektura_i_Infrastruktura
 ---
 
 # Zatvaranje kategorija
@@ -18,4 +18,4 @@ tags:
 - [[Upsell — čaj ili Synchrovitals]] - `conceptually_related_to` [EXTRACTED]
 - [[Urgencija — ograničene zalihe]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Zatvaranje_i_Dostava
+#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura_i_Infrastruktura

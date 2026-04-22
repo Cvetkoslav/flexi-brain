@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/zatvaranje/upsell.md"
 type: "document"
-community: "Zatvaranje i Dostava"
+community: "Bot Arhitektura i Infrastruktura"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Zatvaranje_i_Dostava
+  - community/Bot_Arhitektura_i_Infrastruktura
 ---
 
 # Upsell — čaj ili Synchrovitals
@@ -15,4 +15,4 @@ tags:
 - [[Upsell flow komplet + čajSynchrovitals]] - `implements` [EXTRACTED]
 - [[Zatvaranje kategorija]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Zatvaranje_i_Dostava
+#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura_i_Infrastruktura

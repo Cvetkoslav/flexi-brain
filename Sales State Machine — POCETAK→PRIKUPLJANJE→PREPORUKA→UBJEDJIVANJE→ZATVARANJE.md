@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/INDEX.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Sales State Machine — POCETAK→PRIKUPLJANJE→PREPORUKA→UBJEDJIVANJE→ZATVARANJE
@@ -18,4 +18,4 @@ tags:
 - [[Primer Ljiljana Lekić Šabac — Full Conversation Transcript]] - `cites` [EXTRACTED]
 - [[TODO — Active Development Tasks]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

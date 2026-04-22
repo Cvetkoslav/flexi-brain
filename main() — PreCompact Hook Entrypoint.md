@@ -1,12 +1,12 @@
 ---
 source_file: "flexi-brain/_tools/brain_save.py"
 type: "code"
-community: "PreCompact Hook"
+community: "PreCompact Hook i Session Export"
 location: "line 355"
 tags:
   - graphify/code
   - graphify/EXTRACTED
-  - community/PreCompact_Hook
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # main() — PreCompact Hook Entrypoint
@@ -23,4 +23,4 @@ tags:
 - [[_update_tema() — Topic Hub Updater]] - `calls` [EXTRACTED]
 - [[_write_session() — Session File Writer]] - `calls` [EXTRACTED]
 
-#graphify/code #graphify/EXTRACTED #community/PreCompact_Hook
+#graphify/code #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

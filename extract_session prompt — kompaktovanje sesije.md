@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/_tools/prompts/extract_session.txt"
 type: "document"
-community: "Bot Arhitektura"
+community: "Bot Arhitektura i Infrastruktura"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Bot_Arhitektura_i_Infrastruktura
 ---
 
 # extract_session prompt — kompaktovanje sesije
@@ -18,4 +18,4 @@ tags:
 - [[Followup — Agent 2]] - `references` [EXTRACTED]
 - [[Reaktivacija — Agent 4]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura_i_Infrastruktura

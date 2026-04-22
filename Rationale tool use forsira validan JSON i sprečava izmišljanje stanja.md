@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/_schema/tool-use.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Bot Arhitektura i Infrastruktura"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Bot_Arhitektura_i_Infrastruktura
 ---
 
 # Rationale: tool use forsira validan JSON i sprečava izmišljanje stanja
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Dragana tool use — update_state schema]] - `rationale_for` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura_i_Infrastruktura

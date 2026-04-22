@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/kicma-nerv.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Situacija: kicma/ledja/isijas/bol koji se siri
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Detekcija pritisnutog nerva (trnjenjeutrnulost)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

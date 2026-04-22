@@ -1,11 +1,11 @@
 ---
 source_file: "states/UBJEDJIVANJE.md"
 type: "document"
-community: "Ubjedjivanje i Argumenti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ubjedjivanje_i_Argumenti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Dijagnoza prigovora: poverenje vs cena
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Stanje UBJEDJIVANJE (argumentuj, close pitanja, 3 pokušaja)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ubjedjivanje_i_Argumenti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

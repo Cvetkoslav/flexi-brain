@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/primena-proizvoda.md"
 type: "document"
-community: "Pravila Sigurnosti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pravila_Sigurnosti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Uputstvo za upotrebu proizvoda (balzam/kapsule/caj/synchrovitals)
@@ -16,4 +16,4 @@ tags:
 - [[Kapsule 2 dnevno uz obrok]] - `references` [EXTRACTED]
 - [[Synchrovitals jutarnja pre dorucka, vecernja pred spavanje]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pravila_Sigurnosti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

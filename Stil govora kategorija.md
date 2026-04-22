@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/stil-govora/empatija-pre-prodaje.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Bot Arhitektura i Infrastruktura"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Bot_Arhitektura_i_Infrastruktura
 ---
 
 # Stil govora kategorija
@@ -18,4 +18,4 @@ tags:
 - [[Nema lažnih obećanja]] - `conceptually_related_to` [EXTRACTED]
 - [[Nema ponavljanja pitanja]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura_i_Infrastruktura

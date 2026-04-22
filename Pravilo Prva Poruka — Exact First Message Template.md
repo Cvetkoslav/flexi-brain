@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/pravila/prva-poruka.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Pravilo: Prva Poruka — Exact First Message Template
@@ -14,4 +14,4 @@ tags:
 - [[Flexi Brain — Master Index]] - `references` [EXTRACTED]
 - [[Sales State Machine — POCETAK→PRIKUPLJANJE→PREPORUKA→UBJEDJIVANJE→ZATVARANJE]] - `implements` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

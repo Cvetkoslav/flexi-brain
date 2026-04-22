@@ -1,17 +1,18 @@
 ---
-source_file: "flexi-brain/struktura/format-poruka.md"
+source_file: "struktura/format-poruka.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Labeler i AB Reaktivacija"
+location: "rule"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Labeler_i_AB_Reaktivacija
 ---
 
-# Format poruka (Dragana stil)
+# Format Poruka (Dragana Stil)
 
 ## Connections
-- [[Dragana — Sales Agent]] - `references` [EXTRACTED]
-- [[Kratke poruke (max 2-3 rečenice)]] - `conceptually_related_to` [EXTRACTED]
+- [[Dragana — Sales Agent_2]] - `rationale_for` [EXTRACTED]
+- [[Kratke poruke (max 2-3 rečenice)_1]] - `conceptually_related_to` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Labeler_i_AB_Reaktivacija

@@ -1,17 +1,17 @@
 ---
-source_file: "flexi-brain/zatvaranje/odgada.md"
+source_file: "zatvaranje/odgada.md"
 type: "document"
-community: "Zatvaranje i Dostava"
+community: "Downsell i Odgadjanje"
+location: "Pravilo"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Zatvaranje_i_Dostava
+  - graphify/INFERRED
+  - community/Downsell_i_Odgadjanje
 ---
 
-# Klijent odgađa — ponudi rezervaciju
+# Klijent Odgađa — Ponudi Rezervaciju
 
 ## Connections
-- [[Razmisliću — dijagnoza prigovora]] - `semantically_similar_to` [INFERRED]
-- [[Zatvaranje kategorija]] - `conceptually_related_to` [EXTRACTED]
+- [[Razmisliću — Dijagnoza Prigovora]] - `semantically_similar_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Zatvaranje_i_Dostava
+#graphify/document #graphify/INFERRED #community/Downsell_i_Odgadjanje

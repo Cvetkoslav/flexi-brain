@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/primena-proizvoda.md"
 type: "document"
-community: "Pravila Sigurnosti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pravila_Sigurnosti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Balzam: 2-3x dnevno na bolno mesto
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Uputstvo za upotrebu proizvoda (balzamkapsulecajsynchrovitals)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pravila_Sigurnosti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

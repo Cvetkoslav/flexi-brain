@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/objekcije/cena-skupo.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Objekcija: Skupo — Value Anchoring Rule
@@ -15,4 +15,4 @@ tags:
 - [[Objekcija Nema Para — Reservation Offer Rule]] - `conceptually_related_to` [EXTRACTED]
 - [[Pravilo Sidrenje Vrijednosti — 1.6 KMday Value Anchor]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

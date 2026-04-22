@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/deca-mladji.md"
 type: "document"
-community: "Pravila Sigurnosti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pravila_Sigurnosti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Eskalacija: deca ispod 12 — pedijatar
@@ -14,4 +14,4 @@ tags:
 - [[Medicinski flag trudnocadojenje — uputi na lekara]] - `semantically_similar_to` [INFERRED]
 - [[Pravilo primena po uzrastu dece]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pravila_Sigurnosti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

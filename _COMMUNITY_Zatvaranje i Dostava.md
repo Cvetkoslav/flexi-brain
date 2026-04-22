@@ -1,23 +1,27 @@
 ---
 type: community
-cohesion: 0.32
-members: 8
+cohesion: 0.18
+members: 12
 ---
 
 # Zatvaranje i Dostava
 
-**Cohesion:** 0.32 - loosely connected
-**Members:** 8 nodes
+**Cohesion:** 0.18 - loosely connected
+**Members:** 12 nodes
 
 ## Members
-- [[Dostava — informacije i pravila]] - document - flexi-brain/struktura/dostava.md
-- [[Klijent kaže DA — odmah uzmi adresu]] - document - flexi-brain/zatvaranje/klijent-kaze-da.md
-- [[Klijent odgađa — ponudi rezervaciju]] - document - flexi-brain/zatvaranje/odgada.md
-- [[Razmisliću — dijagnoza prigovora]] - document - flexi-brain/zatvaranje/razmislicu.md
-- [[Upsell flow komplet + čajSynchrovitals]] - document - flexi-brain/zatvaranje/upsell.md
-- [[Upsell — čaj ili Synchrovitals]] - document - flexi-brain/zatvaranje/upsell.md
-- [[Urgencija — ograničene zalihe]] - document - flexi-brain/zatvaranje/urgencija.md
-- [[Zatvaranje kategorija]] - document - flexi-brain/zatvaranje/klijent-kaze-da.md
+- [[Dostava — informacije i pravila_1]] - document - flexi-brain/Dostava — informacije i pravila.md
+- [[Downsell — samo balzam kao last resort_1]] - document
+- [[Klijent kaže DA — odmah uzmi adresu_1]] - document - flexi-brain/zatvaranje/klijent-kaze-da.md
+- [[Klijent odgada — ponudi rezervaciju]] - document
+- [[Klijent odgađa — ponudi rezervaciju_1]] - document - flexi-brain/zatvaranje/klijent-odgadja.md
+- [[Razmislicu — dijagnoza prigovora]] - document - flexi-brain/zatvaranje/razmislicu.md
+- [[Razmisliću — dijagnoza prigovora_1]] - document - flexi-brain/zatvaranje/razmislicu.md
+- [[Upsell flow komplet + čajSynchrovitals_1]] - document - Upsell flow komplet + čajSynchrovitals.md
+- [[Upsell — čaj ili Synchrovitals_1]] - document - Upsell flow komplet + čajSynchrovitals.md
+- [[Upsell — čaj ili Synchrovitals_2]] - document - flexi-brain/Upsell — čaj ili Synchrovitals.md
+- [[Urgencija — ograničene zalihe_1]] - document - flexi-brain/Urgencija — ograničene zalihe.md
+- [[Zatvaranje kategorija_1]] - document
 
 ## Live Query (requires Dataview plugin)
 
@@ -27,8 +31,9 @@ SORT file.name ASC
 ```
 
 ## Connections to other communities
-- 2 edges to [[_COMMUNITY_Bot Arhitektura]]
+- 1 edge to [[_COMMUNITY_Prigovori i Zatvaranje]]
+- 1 edge to [[_COMMUNITY_Labeler i AB Reaktivacija]]
 
 ## Top bridge nodes
-- [[Zatvaranje kategorija]] - degree 6, connects to 1 community
-- [[Razmisliću — dijagnoza prigovora]] - degree 3, connects to 1 community
+- [[Zatvaranje kategorija_1]] - degree 7, connects to 1 community
+- [[Razmislicu — dijagnoza prigovora]] - degree 4, connects to 1 community

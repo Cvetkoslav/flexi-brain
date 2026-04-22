@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/proizvodi/betaserc-cirkulacija.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # samo_balzam Flag — Medical Compatibility Safety Rule
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Proizvod Samo Balzam (BetasercCirkulacija Flag)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

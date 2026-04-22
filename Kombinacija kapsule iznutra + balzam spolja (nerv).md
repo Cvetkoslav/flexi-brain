@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/kicma-nerv.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Kombinacija: kapsule iznutra + balzam spolja (nerv)
@@ -15,4 +15,4 @@ tags:
 - [[Mapa lokacija → ciljano pitanje (koleno, ledja, vrat, kuk...)]] - `rationale_for` [INFERRED]
 - [[Stanje PREPORUKA (edukacija + prilagodjena preporuka + cena)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

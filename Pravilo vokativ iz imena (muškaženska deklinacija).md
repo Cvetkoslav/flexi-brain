@@ -1,11 +1,11 @@
 ---
 source_file: "states/POCETAK.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Pravilo: vokativ iz imena (muška/ženska deklinacija)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Stanje POCETAK (prvi kontakt, pitanje za simptome)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

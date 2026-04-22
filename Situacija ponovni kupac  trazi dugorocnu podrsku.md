@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/synchrovitals-povratnik.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Situacija: ponovni kupac / trazi dugorocnu podrsku
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Synchrovitals pravilo za povratnika  dugotrajnu podršku]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

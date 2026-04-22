@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/certifikati-sigurnost.md"
 type: "document"
-community: "Ubjedjivanje i Argumenti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ubjedjivanje_i_Argumenti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Argumenti: 29 god, ministarstvo, 68 zemalja, fiskalni racun
@@ -14,4 +14,4 @@ tags:
 - [[Pravilo sigurnost i sertifikati proizvoda]] - `references` [EXTRACTED]
 - [[Stanje UBJEDJIVANJE (argumentuj, close pitanja, 3 pokušaja)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ubjedjivanje_i_Argumenti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

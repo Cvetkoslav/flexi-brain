@@ -1,20 +1,18 @@
 ---
-source_file: "flexi-brain/_schema/client.md"
+source_file: "_schema/client.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Labeler i AB Reaktivacija"
+location: "SQLite tabela clients"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Labeler_i_AB_Reaktivacija
 ---
 
-# Client memorija schema (SQLite)
+# Client Memorija Schema (SQLite)
 
 ## Connections
-- [[Database — Postgres schema]] - `references` [EXTRACTED]
-- [[Downsell — samo balzam kao last resort]] - `shares_data_with` [EXTRACTED]
-- [[Dragana tool use — update_state schema]] - `shares_data_with` [EXTRACTED]
-- [[Followup — Agent 2]] - `shares_data_with` [INFERRED]
-- [[Nema ponavljanja pitanja]] - `shares_data_with` [INFERRED]
+- [[Database — Postgres Schema]] - `implements` [EXTRACTED]
+- [[Dragana Tool Use — update_state Schema]] - `shares_data_with` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Labeler_i_AB_Reaktivacija

@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/primeri/ljiljana-sabac.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Primer: Ljiljana Lekić Šabac — Full Conversation Transcript
@@ -19,4 +19,4 @@ tags:
 - [[Rezervacija Taktika — Reservation Close for Financial Objections]] - `cites` [EXTRACTED]
 - [[Sales State Machine — POCETAK→PRIKUPLJANJE→PREPORUKA→UBJEDJIVANJE→ZATVARANJE]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

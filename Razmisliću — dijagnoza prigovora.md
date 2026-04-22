@@ -1,18 +1,18 @@
 ---
-source_file: "flexi-brain/zatvaranje/razmislicu.md"
+source_file: "zatvaranje/razmislicu.md"
 type: "document"
-community: "Zatvaranje i Dostava"
+community: "Downsell i Odgadjanje"
+location: "Pravilo"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Zatvaranje_i_Dostava
+  - community/Downsell_i_Odgadjanje
 ---
 
-# Razmisliću — dijagnoza prigovora
+# Razmisliću — Dijagnoza Prigovora
 
 ## Connections
-- [[Downsell — samo balzam kao last resort]] - `semantically_similar_to` [INFERRED]
-- [[Klijent odgađa — ponudi rezervaciju]] - `semantically_similar_to` [INFERRED]
-- [[Zatvaranje kategorija]] - `conceptually_related_to` [EXTRACTED]
+- [[Downsell — Samo Balzam Last Resort]] - `conceptually_related_to` [INFERRED]
+- [[Klijent Odgađa — Ponudi Rezervaciju]] - `semantically_similar_to` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Zatvaranje_i_Dostava
+#graphify/document #graphify/INFERRED #community/Downsell_i_Odgadjanje

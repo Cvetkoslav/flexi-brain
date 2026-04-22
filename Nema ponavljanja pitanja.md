@@ -1,18 +1,17 @@
 ---
-source_file: "flexi-brain/stil-govora/nema-ponavljanja.md"
+source_file: "stil-govora/nema-ponavljanja.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Labeler i AB Reaktivacija"
+location: "rule"
 tags:
   - graphify/document
-  - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - graphify/INFERRED
+  - community/Labeler_i_AB_Reaktivacija
 ---
 
-# Nema ponavljanja pitanja
+# Nema Ponavljanja Pitanja
 
 ## Connections
-- [[Client memorija schema (SQLite)]] - `shares_data_with` [INFERRED]
-- [[Rationale ponavljanje narušava poverenje klijenta]] - `rationale_for` [EXTRACTED]
-- [[Stil govora kategorija]] - `conceptually_related_to` [EXTRACTED]
+- [[Max 3 Pitanja Pre Ponude]] - `conceptually_related_to` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/INFERRED #community/Labeler_i_AB_Reaktivacija

@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/certifikati-sigurnost.md"
 type: "document"
-community: "Ubjedjivanje i Argumenti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ubjedjivanje_i_Argumenti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Situacija: skeptican klijent (je li pravo?)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Pravilo sigurnost i sertifikati proizvoda]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ubjedjivanje_i_Argumenti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

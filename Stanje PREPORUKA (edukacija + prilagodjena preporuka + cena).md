@@ -1,11 +1,11 @@
 ---
 source_file: "states/PREPORUKA.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Stanje: PREPORUKA (edukacija + prilagodjena preporuka + cena)
@@ -21,4 +21,4 @@ tags:
 - [[Stanje ZATVARANJE (prikupi ime, adresu, telefon)]] - `references` [EXTRACTED]
 - [[Synchrovitals — proizvod (50.85 KM, 24h dejstvo)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

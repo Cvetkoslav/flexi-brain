@@ -1,11 +1,11 @@
 ---
 source_file: "states/ZATVORENO.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Stanje: ZATVORENO (bot ne odgovara, razgovor završen)
@@ -15,4 +15,4 @@ tags:
 - [[Mapiranje stanje → FB labela (leadordered)]] - `references` [EXTRACTED]
 - [[Stanje PORUCIO (zadnja potvrda, prelaz u ZATVORENO)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/deca-mladji.md"
 type: "document"
-community: "Pravila Sigurnosti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pravila_Sigurnosti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Pravilo: primena po uzrastu dece
@@ -15,4 +15,4 @@ tags:
 - [[Eskalacija deca ispod 12 — pedijatar]] - `references` [EXTRACTED]
 - [[Flag samo_balzam=true (12-15 godina)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pravila_Sigurnosti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

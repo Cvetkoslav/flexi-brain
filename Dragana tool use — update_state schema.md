@@ -1,19 +1,19 @@
 ---
-source_file: "flexi-brain/_schema/tool-use.md"
+source_file: "_schema/tool-use.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Labeler i AB Reaktivacija"
+location: "Alat update_state"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Labeler_i_AB_Reaktivacija
 ---
 
-# Dragana tool use — update_state schema
+# Dragana Tool Use — update_state Schema
 
 ## Connections
-- [[Client memorija schema (SQLite)]] - `shares_data_with` [EXTRACTED]
-- [[Dragana — Sales Agent]] - `implements` [EXTRACTED]
-- [[Rationale tool use forsira validan JSON i sprečava izmišljanje stanja]] - `rationale_for` [EXTRACTED]
-- [[update_state Anthropic tool use]] - `implements` [EXTRACTED]
+- [[Client Memorija Schema (SQLite)]] - `shares_data_with` [EXTRACTED]
+- [[Dragana — Sales Agent_2]] - `implements` [EXTRACTED]
+- [[Nema laznih obecanja]] - `rationale_for` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Labeler_i_AB_Reaktivacija

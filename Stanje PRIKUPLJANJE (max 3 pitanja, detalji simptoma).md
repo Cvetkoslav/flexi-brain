@@ -1,11 +1,11 @@
 ---
 source_file: "states/PRIKUPLJANJE.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Stanje: PRIKUPLJANJE (max 3 pitanja, detalji simptoma)
@@ -20,4 +20,4 @@ tags:
 - [[Stanje PREPORUKA (edukacija + prilagodjena preporuka + cena)]] - `references` [EXTRACTED]
 - [[Zabrana kvalifikacije u UBJEDJIVANJU (ne pitaj o simptomima)]] - `rationale_for` [INFERRED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

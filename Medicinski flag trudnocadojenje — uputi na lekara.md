@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/trudnoca-dojenje.md"
 type: "document"
-community: "Pravila Sigurnosti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pravila_Sigurnosti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Medicinski flag: trudnoca/dojenje — uputi na lekara
@@ -15,4 +15,4 @@ tags:
 - [[Eskalacija deca ispod 12 — pedijatar]] - `semantically_similar_to` [INFERRED]
 - [[Strategija rezervacija za posle porodjajadojenja]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pravila_Sigurnosti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

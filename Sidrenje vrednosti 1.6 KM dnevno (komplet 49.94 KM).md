@@ -1,11 +1,11 @@
 ---
 source_file: "states/UBJEDJIVANJE.md"
 type: "document"
-community: "Ubjedjivanje i Argumenti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ubjedjivanje_i_Argumenti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Sidrenje vrednosti: 1.6 KM dnevno (komplet 49.94 KM)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Stanje UBJEDJIVANJE (argumentuj, close pitanja, 3 pokušaja)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ubjedjivanje_i_Argumenti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

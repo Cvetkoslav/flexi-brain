@@ -1,11 +1,11 @@
 ---
 source_file: "states/_TEMPLATE.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/INFERRED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Template za nova stanja (TEMPLATE.md)
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Stanje POCETAK (prvi kontakt, pitanje za simptome)]] - `references` [INFERRED]
 
-#graphify/document #graphify/INFERRED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/INFERRED #community/Caj_i_Upsell_Strategija

@@ -1,11 +1,11 @@
 ---
 source_file: "sessions/2026-04-19_2325_sesija-2026-04-19.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Mapiranje stanje → FB labela (lead/ordered)
@@ -20,4 +20,4 @@ tags:
 - [[Stanje ZATVARANJE (prikupi ime, adresu, telefon)]] - `references` [EXTRACTED]
 - [[Stanje ZATVORENO (bot ne odgovara, razgovor završen)]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

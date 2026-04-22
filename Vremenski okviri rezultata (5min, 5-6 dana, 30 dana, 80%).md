@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/trajanje-rezultata.md"
 type: "document"
-community: "Ubjedjivanje i Argumenti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Ubjedjivanje_i_Argumenti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Vremenski okviri rezultata (5min, 5-6 dana, 30 dana, 80%)
@@ -17,4 +17,4 @@ tags:
 - [[Synchrovitals — proizvod (50.85 KM, 24h dejstvo)]] - `references` [EXTRACTED]
 - [[Zabranjeno ne obecavati 100% izlecenje ili garanciju]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Ubjedjivanje_i_Argumenti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

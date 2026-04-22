@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/meta/TODO.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # TODO — Active Development Tasks
@@ -16,4 +16,4 @@ tags:
 - [[Sales State Machine — POCETAK→PRIKUPLJANJE→PREPORUKA→UBJEDJIVANJE→ZATVARANJE]] - `references` [EXTRACTED]
 - [[_extract_and_append_todo() — TODO Extractor]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

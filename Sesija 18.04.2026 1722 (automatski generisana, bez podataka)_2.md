@@ -1,0 +1,16 @@
+---
+source_file: "sessions/2026-04-18_1722_sesija-2026-04-18.md"
+type: "document"
+community: "Sesija 18.04 Vece"
+tags:
+  - graphify/document
+  - graphify/EXTRACTED
+  - community/Sesija_18.04_Vece
+---
+
+# Sesija 18.04.2026 1722 (automatski generisana, bez podataka)
+
+## Connections
+- [[_COMMUNITY_Sesija 18.04 Vece]] - `references` [EXTRACTED]
+
+#graphify/document #graphify/EXTRACTED #community/Sesija_18.04_Vece

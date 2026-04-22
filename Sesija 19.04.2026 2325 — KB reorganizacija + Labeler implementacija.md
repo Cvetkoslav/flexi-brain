@@ -1,11 +1,11 @@
 ---
 source_file: "sessions/2026-04-19_2325_sesija-2026-04-19.md"
 type: "document"
-community: "Pravila Sigurnosti"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Pravila_Sigurnosti
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Sesija 19.04.2026 23:25 — KB reorganizacija + Labeler implementacija
@@ -17,4 +17,4 @@ tags:
 - [[Mapiranje stanje → FB labela (leadordered)]] - `references` [EXTRACTED]
 - [[Railway fail — 3 failovana servisa, ostao monolitni]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Pravila_Sigurnosti
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/objekcije/nema-para.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Rezervacija Taktika — Reservation Close for Financial Objections
@@ -15,4 +15,4 @@ tags:
 - [[Objekcija Nema Para — Reservation Offer Rule]] - `implements` [EXTRACTED]
 - [[Primer Ljiljana Lekić Šabac — Full Conversation Transcript]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

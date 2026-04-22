@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/caj-otekline.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Caj — proizvod (12.47 KM)
@@ -15,4 +15,4 @@ tags:
 - [[Stanje PREPORUKA (edukacija + prilagodjena preporuka + cena)]] - `references` [EXTRACTED]
 - [[Upsell u ZATVARANJU caj ili Synchrovitals uz narudžbu]] - `references` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

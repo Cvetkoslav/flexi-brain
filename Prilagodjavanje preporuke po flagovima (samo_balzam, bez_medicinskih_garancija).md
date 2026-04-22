@@ -1,11 +1,11 @@
 ---
 source_file: "states/PREPORUKA.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Prilagodjavanje preporuke po flagovima (samo_balzam, bez_medicinskih_garancija)
@@ -15,4 +15,4 @@ tags:
 - [[Flag samo_balzam=true (betaserccirkulacijapritisak)]] - `references` [EXTRACTED]
 - [[Stanje PREPORUKA (edukacija + prilagodjena preporuka + cena)]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

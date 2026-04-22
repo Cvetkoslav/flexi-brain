@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/pravila/sidrenje-vrijednosti.md"
 type: "document"
-community: "Prodajni Motor"
+community: "PreCompact Hook i Session Export"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Prodajni_Motor
+  - community/PreCompact_Hook_i_Session_Export
 ---
 
 # Pravilo: Sidrenje Vrijednosti — 1.6 KM/day Value Anchor
@@ -15,4 +15,4 @@ tags:
 - [[Objekcija Skupo — Value Anchoring Rule]] - `references` [EXTRACTED]
 - [[Primer Ljiljana Lekić Šabac — Full Conversation Transcript]] - `cites` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Prodajni_Motor
+#graphify/document #graphify/EXTRACTED #community/PreCompact_Hook_i_Session_Export

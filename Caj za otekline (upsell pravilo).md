@@ -1,11 +1,11 @@
 ---
 source_file: "proizvodi/caj-otekline.md"
 type: "document"
-community: "Proizvodi i Upsell"
+community: "Caj i Upsell Strategija"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Proizvodi_i_Upsell
+  - community/Caj_i_Upsell_Strategija
 ---
 
 # Caj za otekline (upsell pravilo)
@@ -15,4 +15,4 @@ tags:
 - [[Situacija otekline  nateceni zglobovi]] - `references` [EXTRACTED]
 - [[Upsell caj uz komplet, postarina ista]] - `implements` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Proizvodi_i_Upsell
+#graphify/document #graphify/EXTRACTED #community/Caj_i_Upsell_Strategija

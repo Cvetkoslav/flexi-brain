@@ -1,11 +1,11 @@
 ---
 source_file: "flexi-brain/stil-govora/nema-ponavljanja.md"
 type: "document"
-community: "Bot Arhitektura"
+community: "Bot Arhitektura i Infrastruktura"
 tags:
   - graphify/document
   - graphify/EXTRACTED
-  - community/Bot_Arhitektura
+  - community/Bot_Arhitektura_i_Infrastruktura
 ---
 
 # Rationale: ponavljanje narušava poverenje klijenta
@@ -13,4 +13,4 @@ tags:
 ## Connections
 - [[Nema ponavljanja pitanja]] - `rationale_for` [EXTRACTED]
 
-#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura
+#graphify/document #graphify/EXTRACTED #community/Bot_Arhitektura_i_Infrastruktura
