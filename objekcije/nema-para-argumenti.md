@@ -51,3 +51,20 @@ Postavi ovo PRE nego što klijent stigne da kaže da nema novca. Blokira izgovor
 - Ne pristaješ odmah na rezervaciju bez argumentacije
 - Ne pravdaš se zašto je program te cene
 - Ne "lomiš" klijenta — probudiš ga, pa pređeš na rešenje
+
+## Primer odgovora
+
+**Preventivni udar (pre nego što kažu "nemam"):**
+U svakom gradu kafići su puni. Svuda su puni rafovi cigara. Mislite da oni rade to na poklon? Znači novca ima — samo je pitanje prioriteta. 😊
+
+**Argument mašine (kad kažu "nemam novca"):**
+Zamisli da imaš jednu mašinu koja svaki mesec izbaci 300€. Da li bi je održavao ili pustio da zariba? Pa ti si tebi ta mašina koja zarađuje za život. Kako održavaš svoje telo da ne zariba?
+
+**Za roditelje ("moram za decu"):**
+Razumem. Ali ko zarađuje novac koji daješ deci? Ti si tebi ta mašina. Ako ne odvojiš da je servisiraš — sutra neće biti ni za tebe ni za njih. Upravo sada NAJMANJE košta od svih trenutaka.
+
+**Argument pogoršanja:**
+Vi u ovom trenutku nemate dovoljno novca. Ne daj Bože da se stanje pogorša — hoćete li tada imati MANJE ili VIŠE novca? Kako god da okrenete — sada najmanje dajete, u najboljim uslovima.
+
+**Završni udarac:**
+Ko ne nađe vreme i novac za ZDRAVLJE — taj mora naći vreme i novac za BOLEST. Sa koliko ste spremni da počnemo? 🙏
