@@ -94,6 +94,7 @@ Knowledge base i session graf za Flexi Bot. Bot čita iz `kb/` (sinhronizovano s
 
 
 ## Najnovije sesije
+- [[sessions/2026-04-27_0019_sesija-2026-04-27]] — 27.04.2026. 00:19 (Drugo)
 - [[sessions/2026-04-25_0447_sesija-2026-04-25]] — 25.04.2026. 04:47 (Drugo)
 - [[sessions/2026-04-24_0119_sesija-2026-04-24]] — 24.04.2026. 01:19 (Drugo)
 - [[sessions/2026-04-23_2333_sesija-2026-04-23]] — 23.04.2026. 23:33 (Drugo)
