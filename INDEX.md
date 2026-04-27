@@ -29,10 +29,17 @@ Knowledge base i session graf za Flexi Bot. Bot čita iz `kb/` (sinhronizovano s
 - [[proizvodi/trudnoca-dojenje]] — medicinski flag
 - [[proizvodi/deca-mladji]] — po uzrastu
 
-### `objekcije/` — kako odgovoriti na prigovore (7 fajlova)
+### `objekcije/` — kako odgovoriti na prigovore (12 fajlova)
 - [[objekcije/cena-skupo]] — sidrenje vrednosti
 - [[objekcije/nema-para]] — rezervacija + ne guraj posle 3x
-- [[objekcije/skepticizam]] — Dragana iz iskustva
+- [[objekcije/nema-para-argumenti]] — 6 argumenata za buđenje klijenta (mašina, pogoršanje...)
+- [[objekcije/skepticizam]] — Dragana iz iskustva + balzam 5min dokaz
+- [[objekcije/da-li-deluje]] — 5-koračni sekvens: pitanje → kredibilitet → vrednost → ruska nauka
+- [[objekcije/hranim-se-zdravo]] — metafora flaše bez četkice + argument bube i crva
+- [[objekcije/vec-koristim-vitamine]] — metafora parfema na znojavo telo + računica izgubljenog novca
+- [[objekcije/ne-znam-o-toksinima]] — metafora hrane na 36 stepeni + creva
+- [[objekcije/razmislicu]] — PRIORITET 10: najopasniji prigovor, ne puštaj, odmah pitaj
+- [[objekcije/tehnika-kontra-pitanje]] — nikad se ne pravdaj, vrati pitanje nazad
 - [[objekcije/sve-probao]] — kombinacija iznutra+spolja
 - [[objekcije/konsultacija-doktor]] — pohvali + rezervacija
 - [[objekcije/popust]] — nema popusta → upsell
@@ -45,7 +52,10 @@ Knowledge base i session graf za Flexi Bot. Bot čita iz `kb/` (sinhronizovano s
 - [[zatvaranje/razmislicu]] — dijagnoza prigovora
 - [[zatvaranje/odgada]] — ne potvrđuj odgodu
 
-### `pravila/` — opšta prodajna pravila (4 fajla)
+### `pravila/` — opšta prodajna pravila (5 fajlova)
+- [[pravila/nikad-ne-pravdaj-se]] — PRIORITET 10: nikad odmah ne odgovaraj, uvek pitanje-odgovor
+- [[pravila/svega-pre-cene]] — UVEK "svega 49,94 KM", ne goloratak iznos
+- [[pravila/kupuje-za-drugog]] — kad žena kupuje za muža (3. lice za pacijenta, Vi za kupca)
 - [[pravila/prva-poruka]] — tačan tekst pozdrava
 - [[pravila/cena-bez-simptoma]] — 10+ proizvoda
 - [[pravila/sidrenje-vrijednosti]] — 1,6 KM dnevno
@@ -94,6 +104,7 @@ Knowledge base i session graf za Flexi Bot. Bot čita iz `kb/` (sinhronizovano s
 
 
 ## Najnovije sesije
+- [[sessions/2026-04-27_2248_sesija-2026-04-27]] — 27.04.2026. 22:48 (Drugo)
 - [[sessions/2026-04-27_0019_sesija-2026-04-27]] — 27.04.2026. 00:19 (Drugo)
 - [[sessions/2026-04-25_0447_sesija-2026-04-25]] — 25.04.2026. 04:47 (Drugo)
 - [[sessions/2026-04-24_0119_sesija-2026-04-24]] — 24.04.2026. 01:19 (Drugo)
