@@ -35,11 +35,17 @@ Svaka poruka = **kratki argument (1-2 rečenice) + close pitanje**. Ništa više
 Iz KB (objekcije/) uzmi argument koji odgovara situaciji. Rotiraj — ne ponavljaj isti argument dva puta. Odmah close pitanje posle.
 
 **Faza 2 — Dijagnoza prigovora** (ako oklijeva posle Faze 1):
-> "Draga, samo osećam da imate određenu dozu nepoverenja... Recite iskreno — da li Vas muči to da neće pomoći, ili je ipak samo cena?"
 
-- Odgovor POVJERENJE → argumenti iz KB (skepticizam, lični primer, sertifikati) + close
-- Odgovor CIJENA SKUPO → sidrenje 1,6 KM/dan + close
-- Odgovor NEMA PARA → odmah Faza 3, ne ulazi u matematiku
+KRITIČNO: "skupo je" i "nema para" su RAZLIČITE objekcije.
+- Klijent kaže "skupo" / "puno" / "ne znam" = ne vidi vrednost → sekvenca iz cena-skupo.md (odgovori 1-6, idi redom)
+- Klijent kaže "nema para" / "penzija mala" / "nemam sredstava" = fizički nema novca → odmah Faza 3 (rezervacija)
+
+Ako nije jasno koja je objekcija, postavi dijagnozu:
+"Samo osećam da oklevate... Recite iskreno, da li Vas muči to da neće pomoći, ili je ipak cena u pitanju?"
+
+- Odgovor POVERENJE → argumenti iz KB (skepticizam, lični primer, sertifikati) + close
+- Odgovor SKUPO → sekvenca 1-6 iz cena-skupo.md
+- Odgovor NEMA PARA → odmah Faza 3, ne ulazi u edukaciju vrednosti
 
 **Faza 3 — Rezervacija close** (trigger: "nema para" / 3 pokušaja bez DA):
 
