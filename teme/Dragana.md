@@ -1,31 +1,20 @@
 ---
 type: hub-tema
+status: arhivirano
 ---
 
-# Dragana — Sales Agent
+# Dragana — Sales Agent (UKLONJEN jun 2026)
 
 **Povezano:** [[INDEX]]
 
-## Šta je
-Glavni sales agent na Claude Sonnet 4.6. Vodi razgovor, empatiše, nudi komplet.
+## Status
 
-## Fajlovi u flexi-bot-u
-- `agents/dragana.py` — glavna logika, system prompt, respond()
-- `agents/knowledge.py` — keyword→tag mapping za KB fallback
-- `db.py:518` `get_knowledge_by_tags()` — Dragana zove ovo za KB rules
-- `db.py:557` `get_knowledge_by_keyword()` — keyword fallback
-- `agents/labeler.py` — Haiku 4.5 koji posle svakog odgovora postavlja label, tags, next_action
+Dragana agent je uklonjen iz produkcije 11.06.2026. Ognjen sad sam piše poruke klijentima iz Messenger inboxa. Bot radi samo followup.
 
-## KB kategorije koje najviše utiču
-- `stil-govora/` — jezik, ton, dužina
-- `struktura/` — faze razgovora
-- `objekcije/` — odgovori na prigovore
-- `zatvaranje/` — kako tražiti adresu
+## Zašto je uklonjen
 
-## Poznati problemi
-- Ijekavski leak u odgovorima (rešava se seed rules u `stil-govora/ekavski-obavezno.md`)
-- Ponekad 6+ pitanja pre ponude (rešava `stil-govora/max-3-pitanja.md`)
-- Slike kapsule/balzam koriste placeholder URL
+Previše složeno za trenutnu fazu. Ognjen direktno kontroliše prodajni razgovor, bot samo podseća klijente koji su prestali da odgovaraju.
 
-## Sesije
-_(automatski ažurirano)_
+## Arhiva
+
+`agents/dragana.py` obrisan iz git-a. KB fajlovi (`stil-govora/`, `objekcije/` itd.) ostaju kao referenca za Ognjena.

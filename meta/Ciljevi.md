@@ -8,13 +8,17 @@ type: meta-ciljevi
 
 ---
 
-## Kratkoročno (sledeće sesije)
+## Trenutni model (jun 2026)
 
-- Dragana state machine (faze) — bot koji se ne širi na 10 pitanja
-- Slike — pravi URLovi za kapsule, balzam, customer slike
-- Brain KB kompletiran — svi seed entry-ji kao .md fajlovi u repo-u
+Ognjen vodi prodaju ručno, bot samo podseća klijente. Jednostavno, pouzdano, bez API troškova.
+
+## Kratkoročno
+
+- Followup bot stabilan na Railway-u
+- Ognjen testira stanja ručno i vidi koje poruke rade
+- Po potrebi prilagoditi tekst followup poruka
 
 ## Dugoročno
 
-- Bot koji zatvara prodaju bez ljudske intervencije u 80%+ slučajeva
-- Flexi Brain vault kao živi mozak — bot uči iz svakog razgovora
+- Eventualno vratiti AI agenta kada ima dovoljno podataka iz ručnih razgovora
+- Možda dodati admin panel (web UI) za upravljanje klijentima bez API poziva

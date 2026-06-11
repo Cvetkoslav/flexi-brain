@@ -1,35 +1,42 @@
 # Flexi Brain
 
-Obsidian vault i znanje-baza za **Flexi Bot** (Facebook Messenger sales bot za Flexi Zglobovi proizvode).
+Obsidian vault i baza znanja za **Flexi Bot** (Facebook Messenger followup bot za Flexi Zglobovi proizvode).
 
-## Šta je ovo
+## Novo stanje (jun 2026)
 
-Ovaj repo sadrži dve stvari:
+Bot je drastično pojednostavljen. **Dragana agent je uklonjen.** Ognjen sam piše poruke klijentima iz Messenger inboxa. Bot radi samo jedno: automatski followup poruke za klijente koji nisu odgovorili.
 
-1. **KB pravila** (`stil-govora/`, `objekcije/`, `zatvaranje/`, `proizvodi/`, `pravila/`, `struktura/`) — `.md` fajlovi sa YAML frontmatter-om koje produkcijski bot (Dragana) čita iz Postgres-a. Sinhronizacija ide preko `brain/git_sync.py` na Railway-u, svakih 15 minuta.
+## Šta bot radi
 
-2. **Session logovi + topic hubovi** (`sessions/`, `teme/`, `meta/`) — Obsidian graph za Ognjenovu memoriju, NE konzumira ih bot.
+1. Prima webhook event kad klijent pošalje poruku — loguje je, resetuje followup brojač
+2. Svakih 30 min APScheduler poziva `followup.check_and_send()` — šalje automatske poruke onima koji nisu odgovorili
 
-## Workflow
+## Stack
 
-- Ognjen radi sesije sa Claude Code-om
-- Na `/compact`, PreCompact hook (`_tools/brain_save.py`) generiše izveštaj u `sessions/`
-- Hook commit-uje i push-uje na GitHub
-- Railway server povlači nove fajlove svakih 15 min i upsert-uje u Postgres `knowledge_base` tabelu
-- Dragana pri sledećem odgovoru klijentu koristi sveže rules
+- Python / Flask
+- SQLite na Railway Volume (`/data/data.db`)
+- APScheduler (followup svakih 30 min)
+- Railway hosting, GitHub auto-deploy
+- **Nema Anthropic/Claude API** — bot ne generiše tekst
 
-## Format KB fajla
+## Fajlovi
 
-```yaml
----
-situation: "Kad klijent kaže X"
-rule: "Uradi Y, izbegni Z"
-example_response: "Konkretan primer odgovora"
-category: objekcije | zatvaranje | proizvodi | pravila | struktura
-tags: [tag1, tag2]
-priority: 1-10
-active: true
----
+```
+app.py              — Flask webhook + scheduler + admin endpointi
+agents/followup.py  — followup logika, poruke po stanjima
+brain.py            — SQLite CRUD (klijenti, poruke)
+facebook.py         — send_message, get_user_name, labele
+config.py           — env vars
 ```
 
-Fajlovi bez `situation` + `rule` se ignorišu (tako se `sessions/`, `teme/`, `meta/` preskaču).
+## Admin endpointi
+
+- `GET  /health` — status
+- `GET  /admin/status` — svi klijenti
+- `GET  /admin/client/<id>` — jedan klijent + poruke
+- `POST /admin/reopen/<id>?stanje=POCETAK` — otvori ponovo
+- `POST /admin/set-state/<id>?stanje=UBJEDJIVANJE` — ručno postavi stanje
+
+## KB fajlovi
+
+Folder `stil-govora/`, `objekcije/`, `zatvaranje/` itd. ostaje kao referenca i dokumentacija, ali bot ih više NE čita. Koristi ih Ognjen kao podsjetnik kad piše poruke ručno.
